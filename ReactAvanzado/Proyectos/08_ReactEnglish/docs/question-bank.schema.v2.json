@@ -1,0 +1,155 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "QuestionBank v2",
+  "type": "object",
+  "required": ["metadata", "questions"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["schemaVersion", "bookId", "title", "lessonPairs", "sources"],
+      "properties": {
+        "schemaVersion": { "const": "2.0" },
+        "bookId": { "type": "string", "pattern": "^[A-Z0-9]+$" },
+        "title": { "type": "string" },
+        "generatedAt": { "type": "string" },
+        "totalQuestions": { "type": "integer" },
+        "lessonPairs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "label", "lessons"],
+            "properties": {
+              "id": { "type": "string", "pattern": "^\\d+-\\d+$" },
+              "label": { "type": "string" },
+              "lessons": {
+                "type": "array",
+                "items": { "type": "integer" },
+                "minItems": 2,
+                "maxItems": 2
+              }
+            }
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["id", "name"],
+            "properties": { "id": { "type": "string" }, "name": { "type": "string" } }
+          }
+        }
+      }
+    },
+    "questions": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/question" }
+    }
+  },
+  "$defs": {
+    "blank": {
+      "type": "object",
+      "required": ["id", "acceptedAnswers"],
+      "properties": {
+        "id": { "type": "integer", "minimum": 1 },
+        "label": { "type": "string" },
+        "acceptedAnswers": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "question": {
+      "type": "object",
+      "required": [
+        "id",
+        "sourceId",
+        "lessonPairs",
+        "englishLevel",
+        "difficulty",
+        "topic",
+        "skillType",
+        "questionType",
+        "gradingMode",
+        "instruction",
+        "prompt",
+        "answer",
+        "explanation"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^[A-Z0-9]+-Q\\d{3,}$",
+          "description": "Globally unique: <bookId>-Q<nnn>"
+        },
+        "sourceId": { "type": "string", "description": "Must exist in metadata.sources" },
+        "lessonPairs": {
+          "type": "array",
+          "items": { "type": "string", "pattern": "^\\d+-\\d+$" },
+          "minItems": 1,
+          "description": "Pair ids such as 17-18. A question can belong to several pairs (e.g. book reviews)."
+        },
+        "englishLevel": { "enum": ["A1", "A2", "B1", "B2", "C1", "C2"] },
+        "difficulty": { "enum": ["Easy", "Medium", "Hard"] },
+        "topic": { "type": "string" },
+        "subtopic": { "type": "string" },
+        "grammarFocus": { "type": "string" },
+        "skillType": {
+          "enum": ["Writing", "Reading", "Grammar", "Vocabulary", "Listening", "Speaking"]
+        },
+        "questionType": { "enum": ["open", "fill_blank", "multi_blank", "error_correction"] },
+        "gradingMode": { "enum": ["exact", "blanks", "selfCheck"] },
+        "instruction": { "type": "string" },
+        "prompt": {
+          "type": "string",
+          "description": "Plain text shown to the student. No numbering, no hints."
+        },
+        "template": {
+          "type": "string",
+          "description": "Only for fill_blank. Uses {{1}}, {{2}}… as blank markers."
+        },
+        "hint": { "type": "string" },
+        "media": {
+          "type": "object",
+          "required": ["type", "name"],
+          "properties": {
+            "type": { "enum": ["image"] },
+            "name": {
+              "type": "string",
+              "description": "Placeholder label shown in the exam until src exists."
+            },
+            "src": { "type": ["string", "null"] }
+          }
+        },
+        "answer": {
+          "type": "string",
+          "description": "Model answer, always displayed in the review."
+        },
+        "acceptedAnswers": {
+          "type": "array",
+          "items": { "type": "string" },
+          "minItems": 1,
+          "description": "Required when gradingMode = exact."
+        },
+        "blanks": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/blank" },
+          "minItems": 1,
+          "description": "Required when gradingMode = blanks."
+        },
+        "explanation": { "type": "string" },
+        "tags": { "type": "array", "items": { "type": "string" } }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "gradingMode": { "const": "exact" } } },
+          "then": { "required": ["acceptedAnswers"] }
+        },
+        {
+          "if": { "properties": { "gradingMode": { "const": "blanks" } } },
+          "then": { "required": ["blanks"] }
+        },
+        {
+          "if": { "properties": { "questionType": { "const": "fill_blank" } } },
+          "then": { "required": ["template"] }
+        }
+      ]
+    }
+  }
+}
