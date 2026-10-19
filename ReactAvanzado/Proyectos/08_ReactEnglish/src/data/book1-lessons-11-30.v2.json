@@ -1,0 +1,5760 @@
+{
+  "metadata": {
+    "schemaVersion": "2.0",
+    "bookId": "BK1",
+    "title": "English Learning Content - Book I Lessons 11-30 Complete",
+    "generatedAt": "2026-10-19",
+    "totalQuestions": 189,
+    "lessonPairs": [
+      {
+        "id": "11-12",
+        "label": "Lessons 11-12",
+        "lessons": [
+          11,
+          12
+        ]
+      },
+      {
+        "id": "13-14",
+        "label": "Lessons 13-14",
+        "lessons": [
+          13,
+          14
+        ]
+      },
+      {
+        "id": "15-16",
+        "label": "Lessons 15-16",
+        "lessons": [
+          15,
+          16
+        ]
+      },
+      {
+        "id": "17-18",
+        "label": "Lessons 17-18",
+        "lessons": [
+          17,
+          18
+        ]
+      },
+      {
+        "id": "19-20",
+        "label": "Lessons 19-20",
+        "lessons": [
+          19,
+          20
+        ]
+      },
+      {
+        "id": "11-20",
+        "label": "Lessons 11-20 Review",
+        "lessons": [
+          11,
+          20
+        ]
+      },
+      {
+        "id": "21-22",
+        "label": "Lessons 21-22",
+        "lessons": [
+          21,
+          22
+        ]
+      },
+      {
+        "id": "23-24",
+        "label": "Lessons 23-24",
+        "lessons": [
+          23,
+          24
+        ]
+      },
+      {
+        "id": "25-26",
+        "label": "Lessons 25-26: Comparisons of Quantity & Indefinite Pronouns",
+        "lessons": [
+          25,
+          26
+        ]
+      },
+      {
+        "id": "27-28",
+        "label": "Lessons 27-28: Comparatives, Superlatives & Equality",
+        "lessons": [
+          27,
+          28
+        ]
+      },
+      {
+        "id": "29-30",
+        "label": "Lessons 29-30: Modal Auxiliaries of Obligation (Must / Have to)",
+        "lessons": [
+          29,
+          30
+        ]
+      },
+      {
+        "id": "21-30",
+        "label": "Lessons 21-30 Review",
+        "lessons": [
+          21,
+          30
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "S01",
+        "name": "Lesson 18 - What Time Is It?"
+      },
+      {
+        "id": "S02",
+        "name": "Lesson 18 - Telling Time"
+      },
+      {
+        "id": "S03",
+        "name": "Talking About Food and Drinks"
+      },
+      {
+        "id": "S04",
+        "name": "Much, Many, A Little, A Few, A Lot Of"
+      },
+      {
+        "id": "S05",
+        "name": "Worksheet Book I Lessons 17-18"
+      },
+      {
+        "id": "S06",
+        "name": "Think in English B1 Lessons 17 & 18"
+      },
+      {
+        "id": "S07",
+        "name": "Lesson 19 - Months and Years"
+      },
+      {
+        "id": "S08",
+        "name": "Irregular Verbs Set B"
+      },
+      {
+        "id": "S09",
+        "name": "Worksheet Book I Lessons 19-20"
+      },
+      {
+        "id": "S10",
+        "name": "Think in English B1 Lessons 19 & 20"
+      },
+      {
+        "id": "S11",
+        "name": "Regular & Irregular Verbs 2 (Worksheet)"
+      },
+      {
+        "id": "S12",
+        "name": "Worksheet Book I Lessons 11-20 (Review)"
+      },
+      {
+        "id": "S13",
+        "name": "Worksheet Book I Lessons 25-26: Indefinite Pronouns and Some/Any/No"
+      },
+      {
+        "id": "S14",
+        "name": "Think in English Speak in English - Lesson 27-28: Comparatives and Superlatives"
+      },
+      {
+        "id": "S15",
+        "name": "Worksheet Book I Lessons 27-28: Equality, Superlatives, Reflexives & Too/Enough"
+      },
+      {
+        "id": "S16",
+        "name": "Think in English Speak in English - Lessons 29-30: Must and Have to"
+      },
+      {
+        "id": "S17",
+        "name": "Worksheet Book I Lessons 29-30: Traffic Rules, House Description & Vocabulary"
+      },
+      {
+        "id": "S18",
+        "name": "Review Worksheet Book I Lessons 21-30 (Comprehensive Review)"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "BK1-Q001",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Telling Time",
+      "subtopic": "O'clock",
+      "grammarFocus": "It is + [time] o'clock",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Look at the clock and complete the sentence.",
+      "prompt": "It is ____.",
+      "template": "It is {{1}}.",
+      "media": {
+        "type": "image",
+        "name": "Clock at 7:00",
+        "src": null
+      },
+      "answer": "It is 7 o'clock.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "7 o'clock"
+          ]
+        }
+      ],
+      "explanation": "When the minute hand points directly to 12, the expression o'clock is used with the hour number.",
+      "tags": [
+        "telling-time",
+        "o-clock",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q002",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Telling Time",
+      "subtopic": "Fifteen Minutes Before / After",
+      "grammarFocus": "Quarter past / Quarter to",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Look at the clock and complete the sentence.",
+      "prompt": "It's ____.",
+      "template": "It's {{1}}.",
+      "media": {
+        "type": "image",
+        "name": "Clock at 1:15",
+        "src": null
+      },
+      "answer": "It's a quarter past one.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "a quarter past one"
+          ]
+        }
+      ],
+      "explanation": "When the long hand is on the 3, 15 minutes have passed, so we say 'a quarter past' the current hour.",
+      "tags": [
+        "telling-time",
+        "quarter-past",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q003",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Telling Time",
+      "subtopic": "Thirty Minutes Before / After",
+      "grammarFocus": "Half past",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Look at the clock and complete the sentence.",
+      "prompt": "It's half past ____.",
+      "template": "It's half past {{1}}.",
+      "media": {
+        "type": "image",
+        "name": "Clock at 1:30",
+        "src": null
+      },
+      "answer": "It's half past one.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "one"
+          ]
+        }
+      ],
+      "explanation": "The clock hands indicate thirty minutes past one o'clock.",
+      "tags": [
+        "telling-time",
+        "half-past",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q004",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Telling Time",
+      "subtopic": "Digital and Traditional Formats",
+      "grammarFocus": "Time prepositions and structures",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Write the time in words.",
+      "prompt": "1:25",
+      "answer": "It's one twenty-five.",
+      "acceptedAnswers": [
+        "It's one twenty-five.",
+        "It's twenty-five past one."
+      ],
+      "explanation": "Can be expressed digitally as 'It's one twenty-five' or traditionally as 'It's twenty-five past one'.",
+      "tags": [
+        "telling-time",
+        "digital-time",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q005",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Telling Time",
+      "subtopic": "Minutes before the hour",
+      "grammarFocus": "Minutes to next hour",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Write the time in words.",
+      "prompt": "12:50",
+      "answer": "It's ten minutes to one.",
+      "acceptedAnswers": [
+        "It's ten minutes to one."
+      ],
+      "explanation": "Minutes from 31 to 59 express the remaining time until the next hour using 'to'.",
+      "tags": [
+        "telling-time",
+        "minutes-to",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q006",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Food and Drinks",
+      "subtopic": "Breakfast Preferences",
+      "grammarFocus": "Like + to + infinitive vs Like + noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "What do you like to eat for breakfast?",
+      "answer": "I like to eat pancakes with orange juice and coffee.",
+      "explanation": "Follows the pattern Subject + like + to eat + food items. Do not use 'do' in positive statements.",
+      "tags": [
+        "food-and-drinks",
+        "simple-present",
+        "infinitives"
+      ]
+    },
+    {
+      "id": "BK1-Q007",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Food and Drinks",
+      "subtopic": "Choices with Or",
+      "grammarFocus": "Prefer + noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Do you prefer cereal or pancakes?",
+      "answer": "I prefer pancakes with honey.",
+      "explanation": "Direct answer stating preference with the subject and verb 'prefer'.",
+      "tags": [
+        "food-and-drinks",
+        "preferences"
+      ]
+    },
+    {
+      "id": "BK1-Q008",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Food and Drinks",
+      "subtopic": "Coffee Preferences",
+      "grammarFocus": "Affirmative statement without auxiliary do",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Do you like your coffee with milk or cream?",
+      "answer": "I like my coffee with milk.",
+      "explanation": "Standard affirmative simple present does not use 'do' before the verb.",
+      "tags": [
+        "simple-present",
+        "auxiliary-verbs"
+      ]
+    },
+    {
+      "id": "BK1-Q009",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Short Answers",
+      "subtopic": "Negative Short Answers",
+      "grammarFocus": "Negative short answers with do/don't",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Do you like to eat a lot in the evening?",
+      "answer": "No, I don't.",
+      "explanation": "Short negative answers in simple present end with the auxiliary 'don't' (No, I don't), not 'No, I don't like'.",
+      "tags": [
+        "short-answers",
+        "simple-present",
+        "negation"
+      ]
+    },
+    {
+      "id": "BK1-Q010",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Food and Drinks",
+      "subtopic": "Preferences",
+      "grammarFocus": "Short affirmative response",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Do you like pizza for dinner?",
+      "answer": "Yes, I do.",
+      "explanation": "Affirmative short answer to 'Do you...?' is 'Yes, I do.'",
+      "tags": [
+        "short-answers",
+        "simple-present"
+      ]
+    },
+    {
+      "id": "BK1-Q011",
+      "sourceId": "S04",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Quantifiers",
+      "subtopic": "Countable Quantifiers",
+      "grammarFocus": "There are + many + countable plural noun",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Are there many books on the shelves?",
+      "media": {
+        "type": "image",
+        "name": "Shelves full of books",
+        "src": null
+      },
+      "answer": "Yes, there are. There are many books on the shelves.",
+      "acceptedAnswers": [
+        "Yes, there are. There are many books on the shelves."
+      ],
+      "explanation": "Books are countable plural nouns, taking 'many' and 'there are'.",
+      "tags": [
+        "quantifiers",
+        "countable-nouns",
+        "there-is-there-are"
+      ]
+    },
+    {
+      "id": "BK1-Q012",
+      "sourceId": "S04",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Quantifiers",
+      "subtopic": "Uncountable Quantifiers",
+      "grammarFocus": "There is + a little + uncountable noun",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Is there a little sugar in this coffee?",
+      "media": {
+        "type": "image",
+        "name": "Cup of coffee with a little sugar",
+        "src": null
+      },
+      "answer": "Yes, there is. There is a little sugar in this coffee.",
+      "acceptedAnswers": [
+        "Yes, there is. There is a little sugar in this coffee."
+      ],
+      "explanation": "Sugar is uncountable and uses 'a little' with the singular existential 'there is'.",
+      "tags": [
+        "quantifiers",
+        "uncountable-nouns",
+        "a-little"
+      ]
+    },
+    {
+      "id": "BK1-Q013",
+      "sourceId": "S04",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Contrast A Lot vs A Little",
+      "grammarFocus": "Negative answer correcting quantifier",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Is there a lot of meat in the freezer?",
+      "media": {
+        "type": "image",
+        "name": "Freezer with a little meat",
+        "src": null
+      },
+      "answer": "No, there isn't. There is a little meat in the freezer.",
+      "acceptedAnswers": [
+        "No, there isn't. There is a little meat in the freezer."
+      ],
+      "explanation": "Meat is uncountable. The reference shows a little meat, requiring a negative short answer and statement.",
+      "tags": [
+        "quantifiers",
+        "uncountable",
+        "negation"
+      ]
+    },
+    {
+      "id": "BK1-Q014",
+      "sourceId": "S04",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Quantifiers",
+      "subtopic": "Choosing Between Quantifiers",
+      "grammarFocus": "A few + countable plural",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Are there a lot or a few cookies in the box?",
+      "media": {
+        "type": "image",
+        "name": "Box with a few cookies",
+        "src": null
+      },
+      "answer": "There are a few cookies in the box.",
+      "acceptedAnswers": [
+        "There are a few cookies in the box."
+      ],
+      "explanation": "Direct response choosing 'a few' based on the reference.",
+      "tags": [
+        "quantifiers",
+        "a-few",
+        "choice-questions"
+      ]
+    },
+    {
+      "id": "BK1-Q015",
+      "sourceId": "S04",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Negative Uncountable Quantity with Much",
+      "grammarFocus": "There isn't + much + uncountable noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Is there much progress in that office?",
+      "media": {
+        "type": "image",
+        "name": "Office with little progress",
+        "src": null
+      },
+      "answer": "No, there isn't. There isn't much progress in that office.",
+      "acceptedAnswers": [
+        "No, there isn't. There isn't much progress in that office."
+      ],
+      "explanation": "Progress is an abstract uncountable noun. In negative contexts, 'much' is the standard quantifier.",
+      "tags": [
+        "quantifiers",
+        "much",
+        "uncountable"
+      ]
+    },
+    {
+      "id": "BK1-Q016",
+      "sourceId": "S04",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "How Much Questions",
+      "grammarFocus": "How much + uncountable noun + is there",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How much honey is there in the jar?",
+      "media": {
+        "type": "image",
+        "name": "Jar with a little honey",
+        "src": null
+      },
+      "answer": "There isn't much honey in the jar.",
+      "acceptedAnswers": [
+        "There isn't much honey in the jar."
+      ],
+      "explanation": "Honey is uncountable; scarcity is expressed as 'There isn't much honey'.",
+      "tags": [
+        "how-much",
+        "quantifiers",
+        "uncountable"
+      ]
+    },
+    {
+      "id": "BK1-Q017",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Physical Descriptions",
+      "subtopic": "Expressing Weight (Noun vs Verb)",
+      "grammarFocus": "Possessive adjective + weight is [X]",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "What is your mother's weight?",
+      "answer": "My mother's weight is 160 pounds.",
+      "explanation": "'Weight' is a noun preceded by a possessive form ('mother's') and coupled with 'is'.",
+      "tags": [
+        "possessives",
+        "weight",
+        "nouns"
+      ]
+    },
+    {
+      "id": "BK1-Q018",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Physical Descriptions",
+      "subtopic": "Verifying Weight with 'To Be'",
+      "grammarFocus": "Is [Possessive] weight...? -> No, it isn't.",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Is Margarita's weight 123 pounds?",
+      "hint": "103",
+      "answer": "No, it isn't. Her weight is 103 pounds.",
+      "acceptedAnswers": [
+        "No, it isn't. Her weight is 103 pounds."
+      ],
+      "explanation": "The subject of the question is 'weight' (an inanimate noun), so the short answer is 'No, it isn't', followed by 'Her weight is...'.",
+      "tags": [
+        "pronouns-it",
+        "weight",
+        "possessives"
+      ]
+    },
+    {
+      "id": "BK1-Q019",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Physical Descriptions",
+      "subtopic": "Verb Weigh in Third Person",
+      "grammarFocus": "Third person simple present (weighs)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How much does Stephanie weigh?",
+      "hint": "140",
+      "answer": "She weighs 140 pounds.",
+      "acceptedAnswers": [
+        "She weighs 140 pounds."
+      ],
+      "explanation": "In simple present affirmative, third person singular subjects take -s on the verb: 'weighs'.",
+      "tags": [
+        "simple-present",
+        "verbs",
+        "third-person"
+      ]
+    },
+    {
+      "id": "BK1-Q020",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Negative questions with Does",
+      "grammarFocus": "Does [subject] weigh...? -> No, [subject] doesn't.",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Does Margarita weigh 123 pounds?",
+      "hint": "103",
+      "answer": "No, she doesn't. She weighs 103 pounds.",
+      "acceptedAnswers": [
+        "No, she doesn't. She weighs 103 pounds."
+      ],
+      "explanation": "The question asks about the person, so the short answer uses the personal pronoun and auxiliary: 'No, she doesn't.'",
+      "tags": [
+        "auxiliary-does",
+        "short-answers",
+        "weigh"
+      ]
+    },
+    {
+      "id": "BK1-Q021",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Height as a Description",
+      "grammarFocus": "Subject + be + [height] + tall",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "How tall are you?",
+      "answer": "I am 5 feet 11 inches tall.",
+      "explanation": "Questions with 'How tall' require a descriptive response ending in 'tall': I am [measurement] tall.",
+      "tags": [
+        "height",
+        "how-tall",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "BK1-Q022",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Physical Descriptions",
+      "subtopic": "People Descriptions",
+      "grammarFocus": "Adjective + noun placement with articles",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is Paris Hilton a thin person?",
+      "answer": "Yes, she is. She is a very thin person.",
+      "explanation": "Adjectives precede the noun they modify, along with the indefinite article 'a'.",
+      "tags": [
+        "adjectives",
+        "descriptions",
+        "word-order"
+      ]
+    },
+    {
+      "id": "BK1-Q023",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Physical Traits",
+      "grammarFocus": "Subject + be + well-built person",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Who is a well-built person?",
+      "answer": "Arnold Schwarzenegger is a well-built person.",
+      "explanation": "Compound adjective 'well-built' describes muscular build.",
+      "tags": [
+        "vocabulary",
+        "compound-adjectives"
+      ]
+    },
+    {
+      "id": "BK1-Q024",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Telling Time",
+      "subtopic": "Quarter to",
+      "grammarFocus": "It's a quarter to [hour]",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Write the time.",
+      "prompt": "6:45",
+      "answer": "It's a quarter to seven.",
+      "acceptedAnswers": [
+        "It's a quarter to seven."
+      ],
+      "explanation": "6:45 means there are 15 minutes remaining until 7:00.",
+      "tags": [
+        "time",
+        "quarter-to"
+      ]
+    },
+    {
+      "id": "BK1-Q025",
+      "sourceId": "S05",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Telling Time",
+      "subtopic": "Single Digit Minutes with O'",
+      "grammarFocus": "Hour + oh + minute",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Write the time.",
+      "prompt": "3:08",
+      "answer": "It's three oh eight.",
+      "acceptedAnswers": [
+        "It's three oh eight.",
+        "It's three o'eight."
+      ],
+      "explanation": "Minutes from 01 to 09 are read with 'oh' (the course writes it 'o'').",
+      "tags": [
+        "time",
+        "spelling"
+      ]
+    },
+    {
+      "id": "BK1-Q026",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Collective Nouns",
+      "subtopic": "Family as Collective Noun",
+      "grammarFocus": "Subject-verb agreement (family as singular it)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Does your family eat a well balanced diet?",
+      "answer": "Yes, it does. My family eats a well-balanced diet.",
+      "explanation": "'Family' is a collective singular unit requiring 'does' and the third-person singular verb 'eats'.",
+      "tags": [
+        "collective-nouns",
+        "third-person-s",
+        "subject-verb-agreement"
+      ]
+    },
+    {
+      "id": "BK1-Q027",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Clauses of Purpose",
+      "subtopic": "Infinitive of Purpose vs For",
+      "grammarFocus": "Why -> Because / To + verb",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Why do we have to read books?",
+      "answer": "Because we need to exercise our mind and learn.",
+      "explanation": "'Why' is answered with 'Because' or an infinitive of purpose ('to learn'), not 'for learn'.",
+      "tags": [
+        "why-because",
+        "purpose-clauses",
+        "infinitives"
+      ]
+    },
+    {
+      "id": "BK1-Q028",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Does Person Weigh",
+      "grammarFocus": "Does [person] weigh...? -> No, he doesn't.",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Does your father weigh 800 pounds?",
+      "answer": "No, he doesn't. He weighs 195 pounds.",
+      "explanation": "Subject is 'father' (he), so the auxiliary is 'doesn't'. The affirmative verb adds -s: 'weighs'.",
+      "tags": [
+        "does-auxiliary",
+        "weigh",
+        "third-person"
+      ]
+    },
+    {
+      "id": "BK1-Q029",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Gerunds as Subjects",
+      "subtopic": "Sentence Construction",
+      "grammarFocus": "Gerund as subject of clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Write a sentence using this word.",
+      "prompt": "IMPORTANT",
+      "answer": "Sleeping early is very important for your health.",
+      "explanation": "When an action is the grammatical subject, it takes the gerund form (-ing): 'Sleeping early'.",
+      "tags": [
+        "gerunds",
+        "sentence-building",
+        "adjectives"
+      ]
+    },
+    {
+      "id": "BK1-Q030",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Adjectives and Idioms",
+      "subtopic": "To Be Late",
+      "grammarFocus": "Be + late for + noun phrase",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Write a sentence using this word.",
+      "prompt": "LATE",
+      "answer": "I am late for my English class.",
+      "explanation": "'Late' is an adjective used with 'to be' ('I am late for...'). Noun modifiers precede the head noun ('English class').",
+      "tags": [
+        "be-late",
+        "noun-adjuncts"
+      ]
+    },
+    {
+      "id": "BK1-Q031",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Prepositions of Time",
+      "subtopic": "At with Specific Times",
+      "grammarFocus": "At + [time]",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "At what time do you take a shower?",
+      "answer": "I take a shower at a quarter to seven.",
+      "explanation": "Specific clock times indicating when an event occurs are preceded by the preposition 'at'.",
+      "tags": [
+        "prepositions-of-time",
+        "at",
+        "daily-routines"
+      ]
+    },
+    {
+      "id": "BK1-Q032",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "17-18"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Simple Present",
+      "subtopic": "Third Person Animal Subjects",
+      "grammarFocus": "Third person -s (wakes up)",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence.",
+      "prompt": "The dog ____ early every day.",
+      "template": "The dog {{1}} early every day.",
+      "hint": "wake up",
+      "answer": "The dog wakes up early every day.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "wakes up"
+          ]
+        }
+      ],
+      "explanation": "'The dog' is equivalent to 'it', which requires the verb suffix -s: 'wakes up'.",
+      "tags": [
+        "simple-present",
+        "phrasal-verbs",
+        "third-person-s"
+      ]
+    },
+    {
+      "id": "BK1-Q033",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Calendar and Dates",
+      "subtopic": "Leap Years",
+      "grammarFocus": "Has + number of days",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How many days does a leap year have?",
+      "answer": "A leap year has 366 days.",
+      "acceptedAnswers": [
+        "A leap year has 366 days."
+      ],
+      "explanation": "Singular subject 'a leap year' takes the verb form 'has' followed by the number 366.",
+      "tags": [
+        "calendar",
+        "leap-year",
+        "have-has"
+      ]
+    },
+    {
+      "id": "BK1-Q034",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Calendar and Dates",
+      "subtopic": "Days in February",
+      "grammarFocus": "Subject + has (not 'In February have')",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Does February have twenty nine days in a normal year?",
+      "answer": "No, it doesn't. February has 28 days in a normal year.",
+      "acceptedAnswers": [
+        "No, it doesn't. February has 28 days in a normal year."
+      ],
+      "explanation": "Avoid Spanish transfer 'In February have'. Use the month name as direct subject: 'February has 28 days'.",
+      "tags": [
+        "months",
+        "subject-verb-order",
+        "negatives"
+      ]
+    },
+    {
+      "id": "BK1-Q035",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Calendar and Dates",
+      "subtopic": "Chronology of Months",
+      "grammarFocus": "Month + comes before + month",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Which month comes before March?",
+      "answer": "February comes before March.",
+      "acceptedAnswers": [
+        "February comes before March."
+      ],
+      "explanation": "February is the second month and directly precedes March.",
+      "tags": [
+        "months",
+        "prepositions-before"
+      ]
+    },
+    {
+      "id": "BK1-Q036",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Calendar and Dates",
+      "subtopic": "Past Passive of Birth",
+      "grammarFocus": "I was born in + Month",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "In which month were you born?",
+      "answer": "I was born in January.",
+      "explanation": "Birth expressions use 'was born'. When mentioning only the month, the preposition must be 'in'.",
+      "tags": [
+        "was-born",
+        "prepositions-in",
+        "months"
+      ]
+    },
+    {
+      "id": "BK1-Q037",
+      "sourceId": "S08",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Verb Forms",
+      "subtopic": "Irregular Simple Past and Participle",
+      "grammarFocus": "V1 - V2 - V3 - V-ing forms",
+      "skillType": "Grammar",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the verb forms.",
+      "prompt": "to grow",
+      "answer": "grew, grown, growing",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "Simple Past",
+          "acceptedAnswers": [
+            "grew"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Past Participle",
+          "acceptedAnswers": [
+            "grown"
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Gerund",
+          "acceptedAnswers": [
+            "growing"
+          ]
+        }
+      ],
+      "explanation": "'To grow' follows the irregular vowel shift pattern: grow -> grew -> grown.",
+      "tags": [
+        "irregular-verbs",
+        "past-tense",
+        "participles"
+      ]
+    },
+    {
+      "id": "BK1-Q038",
+      "sourceId": "S08",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Verb Forms",
+      "subtopic": "Invariable Irregular Verbs",
+      "grammarFocus": "Base form identical to past and participle",
+      "skillType": "Grammar",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the verb forms.",
+      "prompt": "to let",
+      "answer": "let, let, letting",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "Simple Past",
+          "acceptedAnswers": [
+            "let"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Past Participle",
+          "acceptedAnswers": [
+            "let"
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Gerund",
+          "acceptedAnswers": [
+            "letting"
+          ]
+        }
+      ],
+      "explanation": "'Let' is invariant: past simple and past participle stay 'let'. The gerund doubles the t ('letting').",
+      "tags": [
+        "irregular-verbs",
+        "spelling-rules"
+      ]
+    },
+    {
+      "id": "BK1-Q039",
+      "sourceId": "S08",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Verb Forms",
+      "subtopic": "Irregular Verbs with -ought",
+      "grammarFocus": "Irregular past with -ought",
+      "skillType": "Grammar",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the verb forms.",
+      "prompt": "to seek",
+      "answer": "sought, sought, seeking",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "Simple Past",
+          "acceptedAnswers": [
+            "sought"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Past Participle",
+          "acceptedAnswers": [
+            "sought"
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Gerund",
+          "acceptedAnswers": [
+            "seeking"
+          ]
+        }
+      ],
+      "explanation": "Past simple and participle of 'seek' are irregularly formed as 'sought'.",
+      "tags": [
+        "irregular-verbs",
+        "advanced-verbs"
+      ]
+    },
+    {
+      "id": "BK1-Q040",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Countable vs Uncountable Plurals",
+      "grammarFocus": "There are a few + countable plural",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How many steaks are there left?",
+      "hint": "a few",
+      "media": {
+        "type": "image",
+        "name": "A few steaks",
+        "src": null
+      },
+      "answer": "There are a few steaks left.",
+      "acceptedAnswers": [
+        "There are a few steaks left."
+      ],
+      "explanation": "'There are' introduces the clause; 'left' is a post-positive adjective. Avoid saying 'there left'.",
+      "tags": [
+        "quantifiers",
+        "word-order"
+      ]
+    },
+    {
+      "id": "BK1-Q041",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Quantifiers",
+      "subtopic": "Uncountable Abstract Nouns",
+      "grammarFocus": "There is a lot of + uncountable singular noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How much progress is there in the company?",
+      "hint": "a lot of",
+      "answer": "There is a lot of progress in the company.",
+      "acceptedAnswers": [
+        "There is a lot of progress in the company."
+      ],
+      "explanation": "'Progress' is uncountable in English and requires the singular existential 'There is'.",
+      "tags": [
+        "uncountable",
+        "there-is",
+        "common-errors"
+      ]
+    },
+    {
+      "id": "BK1-Q042",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Quantifiers",
+      "subtopic": "Much in Negative Clauses",
+      "grammarFocus": "There isn't much + uncountable noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How much cream is there in the jar?",
+      "hint": "much",
+      "media": {
+        "type": "image",
+        "name": "Jar with a little cream",
+        "src": null
+      },
+      "answer": "There isn't much cream in the jar.",
+      "acceptedAnswers": [
+        "There isn't much cream in the jar."
+      ],
+      "explanation": "In standard English, 'much' without modifiers (so/too) is typically restricted to questions and negative clauses.",
+      "tags": [
+        "quantifiers",
+        "much",
+        "negatives"
+      ]
+    },
+    {
+      "id": "BK1-Q043",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Holidays and Dates",
+      "subtopic": "Independence Day",
+      "grammarFocus": "Subject + celebrate + holiday + in + month",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Do we celebrate Independence Day in October?",
+      "answer": "No, we don't. We celebrate Independence Day in September.",
+      "acceptedAnswers": [
+        "No, we don't. We celebrate Independence Day in September."
+      ],
+      "explanation": "Short answer: 'No, we don't.' Full clause follows Subject + Verb + Object + in + Month.",
+      "tags": [
+        "holidays",
+        "prepositions-in",
+        "short-answers"
+      ]
+    },
+    {
+      "id": "BK1-Q044",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Quantifiers",
+      "subtopic": "Irregular Plurals",
+      "grammarFocus": "Many + irregular plural noun",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete with the correct quantifier.",
+      "prompt": "Quantifier for: sheep",
+      "template": "{{1}} sheep",
+      "answer": "many sheep",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "many",
+            "a lot of"
+          ]
+        }
+      ],
+      "explanation": "'Sheep' is countable with an identical plural form (one sheep, two sheep), so 'many' / 'a lot of' apply.",
+      "tags": [
+        "irregular-plurals",
+        "many",
+        "quantifiers"
+      ]
+    },
+    {
+      "id": "BK1-Q045",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Quantifiers",
+      "subtopic": "Uncountable Liquid Quantifiers",
+      "grammarFocus": "A little + uncountable liquid noun",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete with the correct quantifier.",
+      "prompt": "____ oil",
+      "template": "{{1}} oil",
+      "answer": "a little oil",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "a little"
+          ]
+        }
+      ],
+      "explanation": "Oil is an uncountable substance and takes 'a little'.",
+      "tags": [
+        "quantifiers",
+        "a-little",
+        "uncountable"
+      ]
+    },
+    {
+      "id": "BK1-Q046",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Days of the Week",
+      "subtopic": "Spelling Days",
+      "grammarFocus": "Capitalization of proper nouns",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Write the missing day.",
+      "prompt": "TUESDAY, ____, THURSDAY",
+      "template": "TUESDAY, {{1}}, THURSDAY",
+      "answer": "TUESDAY, Wednesday, THURSDAY",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "Wednesday"
+          ]
+        }
+      ],
+      "explanation": "Wednesday is spelled W-e-d-n-e-s-d-a-y with a silent 'd'.",
+      "tags": [
+        "days-of-the-week",
+        "spelling"
+      ]
+    },
+    {
+      "id": "BK1-Q047",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Meal Times",
+      "subtopic": "Chronology of Meals",
+      "grammarFocus": "Meal + is after + meal",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Which meal is after lunch?",
+      "answer": "Dinner is after lunch.",
+      "acceptedAnswers": [
+        "Dinner is after lunch."
+      ],
+      "explanation": "The chronological sequence of daily meals is breakfast, lunch, dinner.",
+      "tags": [
+        "meals",
+        "time-order"
+      ]
+    },
+    {
+      "id": "BK1-Q048",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Third Person Singular",
+      "subtopic": "Verbs Ending in Sibilants (-sh)",
+      "grammarFocus": "Verb + -es for verbs ending in -sh",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Does the year finish in January?",
+      "answer": "No, it doesn't. The year finishes in December.",
+      "acceptedAnswers": [
+        "No, it doesn't. The year finishes in December."
+      ],
+      "explanation": "Verbs ending in -sh add -es in third person singular simple present: 'finishes'.",
+      "tags": [
+        "spelling-rules",
+        "third-person-s",
+        "verbs"
+      ]
+    },
+    {
+      "id": "BK1-Q049",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Verbs",
+      "subtopic": "To Give",
+      "grammarFocus": "V1 - V2 - V3 forms",
+      "skillType": "Grammar",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the verb forms.",
+      "prompt": "To give",
+      "answer": "gives, gave, given, Irregular",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "3rd Person",
+          "acceptedAnswers": [
+            "gives"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Past",
+          "acceptedAnswers": [
+            "gave"
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Participle",
+          "acceptedAnswers": [
+            "given"
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Type",
+          "acceptedAnswers": [
+            "Irregular"
+          ]
+        }
+      ],
+      "explanation": "Give is an irregular verb (gives, gave, given).",
+      "tags": [
+        "verb-tables",
+        "irregular-verbs"
+      ]
+    },
+    {
+      "id": "BK1-Q050",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Easy",
+      "topic": "Verbs",
+      "subtopic": "Invariable Verbs in Past",
+      "grammarFocus": "Invariable irregular verb forms",
+      "skillType": "Grammar",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the verb forms.",
+      "prompt": "To hurt",
+      "answer": "hurts, hurt, hurt, Irregular",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "3rd Person",
+          "acceptedAnswers": [
+            "hurts"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Past",
+          "acceptedAnswers": [
+            "hurt"
+          ]
+        },
+        {
+          "id": 3,
+          "label": "Participle",
+          "acceptedAnswers": [
+            "hurt"
+          ]
+        },
+        {
+          "id": 4,
+          "label": "Type",
+          "acceptedAnswers": [
+            "Irregular"
+          ]
+        }
+      ],
+      "explanation": "'Hurt' maintains identical forms across past and participle.",
+      "tags": [
+        "irregular-verbs",
+        "invariant-verbs"
+      ]
+    },
+    {
+      "id": "BK1-Q051",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Pronouns and Possessives",
+      "subtopic": "Object Pronouns vs Subject Pronouns",
+      "grammarFocus": "Subject pronoun 'we' at clause head",
+      "skillType": "Grammar",
+      "questionType": "error_correction",
+      "gradingMode": "exact",
+      "instruction": "Correct the sentence.",
+      "prompt": "Us are playing.",
+      "answer": "We are playing.",
+      "acceptedAnswers": [
+        "We are playing."
+      ],
+      "explanation": "Subject position before the verb requires the subject pronoun 'We', not the object pronoun 'Us'.",
+      "tags": [
+        "subject-pronouns",
+        "error-correction"
+      ]
+    },
+    {
+      "id": "BK1-Q052",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Medium",
+      "topic": "Possessives",
+      "subtopic": "Independent Possessive Pronouns",
+      "grammarFocus": "Predicate possessive pronoun 'mine'",
+      "skillType": "Grammar",
+      "questionType": "error_correction",
+      "gradingMode": "exact",
+      "instruction": "Correct the sentence.",
+      "prompt": "The car is me.",
+      "answer": "The car is mine.",
+      "acceptedAnswers": [
+        "The car is mine."
+      ],
+      "explanation": "To express ownership after 'to be' without a following noun, use the possessive pronoun 'mine'.",
+      "tags": [
+        "possessive-pronouns",
+        "error-correction"
+      ]
+    },
+    {
+      "id": "BK1-Q053",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Prepositions of Place",
+      "subtopic": "Between vs Among",
+      "grammarFocus": "Between two entities",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence.",
+      "prompt": "The red car is ____ the yellow and the blue cars.",
+      "template": "The red car is {{1}} the yellow and the blue cars.",
+      "answer": "The red car is between the yellow and the blue cars.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "between"
+          ]
+        }
+      ],
+      "explanation": "When positioned in the middle of two distinct items, the correct preposition is 'between'.",
+      "tags": [
+        "prepositions-of-place",
+        "between"
+      ]
+    },
+    {
+      "id": "BK1-Q054",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Tenses Contrast",
+      "subtopic": "Present Continuous with Time Markers",
+      "grammarFocus": "Present Continuous with 'right now'",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence.",
+      "prompt": "Bob ____ his room right now.",
+      "template": "Bob {{1}} his room right now.",
+      "hint": "clean",
+      "answer": "Bob is cleaning his room right now.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "is cleaning"
+          ]
+        }
+      ],
+      "explanation": "The time expression 'right now' requires the Present Continuous (is + cleaning).",
+      "tags": [
+        "present-continuous",
+        "time-markers"
+      ]
+    },
+    {
+      "id": "BK1-Q055",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Prices and Costs",
+      "subtopic": "Error Correction with Cost",
+      "grammarFocus": "Verb cost without auxiliary be in affirmative",
+      "skillType": "Grammar",
+      "questionType": "error_correction",
+      "gradingMode": "exact",
+      "instruction": "Correct the sentence.",
+      "prompt": "The book is cost $3.00.",
+      "answer": "The book costs $3.00.",
+      "acceptedAnswers": [
+        "The book costs $3.00."
+      ],
+      "explanation": "'Cost' is a full lexical verb. Do not combine it with 'is' in simple affirmative statements.",
+      "tags": [
+        "costs",
+        "error-correction",
+        "prices"
+      ]
+    },
+    {
+      "id": "BK1-Q056",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "B1",
+      "difficulty": "Hard",
+      "topic": "Prices and Values",
+      "subtopic": "Be Worth Construction",
+      "grammarFocus": "Subject + be + worth + amount",
+      "skillType": "Grammar",
+      "questionType": "error_correction",
+      "gradingMode": "exact",
+      "instruction": "Correct the sentence.",
+      "prompt": "The pen worth $2.50.",
+      "answer": "The pen is worth $2.50.",
+      "acceptedAnswers": [
+        "The pen is worth $2.50."
+      ],
+      "explanation": "'Worth' acts as an adjective in this construction and requires the copula 'is' (is worth).",
+      "tags": [
+        "worth",
+        "copular-verbs"
+      ]
+    },
+    {
+      "id": "BK1-Q057",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Weight Expression Errors",
+      "grammarFocus": "She weighs vs Her weight is",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Does your mother weigh 200 lbs.?",
+      "answer": "No, she doesn't. She weighs 160 lbs.",
+      "explanation": "Never say 'she is weigh'. Use either the verb 'she weighs' or the noun phrase 'her weight is'.",
+      "tags": [
+        "common-errors",
+        "weigh-vs-weight"
+      ]
+    },
+    {
+      "id": "BK1-Q058",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Leisure Activities",
+      "subtopic": "Go + Verb-ing",
+      "grammarFocus": "Go + outdoor activity in -ing",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "What do you like to do on a Saturday afternoon?",
+      "answer": "I like to go hiking on Saturday afternoons.",
+      "explanation": "Outdoor activities ending in -ing (hiking, swimming, running) collocate with 'go', not 'do'.",
+      "tags": [
+        "collocations",
+        "go-plus-ing"
+      ]
+    },
+    {
+      "id": "BK1-Q059",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Food and Dining",
+      "subtopic": "Degrees of Meat Doneness",
+      "grammarFocus": "Adjectives of food preparation",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "How do you like your steak?",
+      "answer": "I like it medium.",
+      "explanation": "'Over medium' refers to eggs. Steaks use rare, medium-rare, medium, and well-done.",
+      "tags": [
+        "culinary-terms",
+        "food-vocabulary"
+      ]
+    },
+    {
+      "id": "BK1-Q060",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "11-12",
+        "13-14",
+        "15-16",
+        "17-18",
+        "19-20"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Prepositions of Place and Geography",
+      "subtopic": "Between two nations",
+      "grammarFocus": "Between + Country A + and + Country B",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence.",
+      "prompt": "The USA is ____ Mexico and Canada.",
+      "template": "The USA is {{1}} Mexico and Canada.",
+      "answer": "The USA is between Mexico and Canada.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "between"
+          ]
+        }
+      ],
+      "explanation": "'Between' indicates location in the middle of two surrounding entities.",
+      "tags": [
+        "prepositions-of-place",
+        "geography"
+      ]
+    },
+    {
+      "id": "BK1-Q061",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Telling Time",
+      "subtopic": "Quarter past",
+      "grammarFocus": "It's a quarter past + [hour]",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Look at the clock and complete the sentence.",
+      "prompt": "It's ____.",
+      "template": "It's {{1}}.",
+      "media": {
+        "type": "image",
+        "name": "Clock at 1:15",
+        "src": null
+      },
+      "answer": "It's a quarter past one.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "a quarter past one"
+          ]
+        }
+      ],
+      "explanation": "At 1:15, fifteen minutes past the hour is expressed as 'a quarter past one'.",
+      "tags": [
+        "telling-time",
+        "quarter-past",
+        "a1",
+        "clocks"
+      ]
+    },
+    {
+      "id": "BK1-Q062",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Telling Time",
+      "subtopic": "O'clock",
+      "grammarFocus": "It's + [hour] + o'clock",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Look at the clock and complete the sentence.",
+      "prompt": "It's ____.",
+      "template": "It's {{1}}.",
+      "media": {
+        "type": "image",
+        "name": "Clock at 12:00",
+        "src": null
+      },
+      "answer": "It's twelve o'clock.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "twelve o'clock",
+            "12 o'clock"
+          ]
+        }
+      ],
+      "explanation": "When the hour hand and minute hand are both at 12, it is twelve o'clock.",
+      "tags": [
+        "telling-time",
+        "o-clock",
+        "a1",
+        "clocks"
+      ]
+    },
+    {
+      "id": "BK1-Q063",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Telling Time",
+      "subtopic": "Half past",
+      "grammarFocus": "It's half past + [hour]",
+      "skillType": "Writing",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Look at the clock and complete the sentence.",
+      "prompt": "It's half past ____.",
+      "template": "It's half past {{1}}.",
+      "media": {
+        "type": "image",
+        "name": "Clock at 1:30",
+        "src": null
+      },
+      "answer": "It's half past one.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "one",
+            "1"
+          ]
+        }
+      ],
+      "explanation": "Thirty minutes past one is expressed as 'half past one'.",
+      "tags": [
+        "telling-time",
+        "half-past",
+        "a1",
+        "clocks"
+      ]
+    },
+    {
+      "id": "BK1-Q064",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Telling Time",
+      "subtopic": "Quarter to / Digital reading",
+      "grammarFocus": "Traditional vs digital time expressions",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "What time is it? Give two different answers.",
+      "prompt": "10:45",
+      "answer": "It's a quarter to eleven.",
+      "acceptedAnswers": [
+        "It's a quarter to eleven.",
+        "It's ten forty-five.",
+        "It's a quarter to eleven. / It's ten forty-five."
+      ],
+      "explanation": "10:45 can be read digitally as 'ten forty-five' or traditionally relative to the next hour as 'a quarter to eleven'.",
+      "tags": [
+        "telling-time",
+        "quarter-to",
+        "digital-time",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q065",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "A lot of vs Many with uncountable nouns",
+      "grammarFocus": "There is a lot of + uncountable noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Is there A LOT OF or MANY food in a restaurant?",
+      "answer": "There is a lot of food in a restaurant.",
+      "acceptedAnswers": [
+        "There is a lot of food in a restaurant."
+      ],
+      "explanation": "'Food' is uncountable, so 'a lot of' is used instead of 'many', accompanied by singular 'There is'.",
+      "tags": [
+        "quantifiers",
+        "uncountable-nouns",
+        "there-is",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q066",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Food and Preferences",
+      "subtopic": "Cooking styles / Adjectives",
+      "grammarFocus": "Simple Present with 'like'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How do you like your potatoes?",
+      "answer": "I like my potatoes mashed.",
+      "explanation": "Answers describe preparation adjectives such as 'mashed', 'fried', or 'baked'.",
+      "tags": [
+        "food-vocabulary",
+        "simple-present",
+        "preferences",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q067",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Simple Present",
+      "subtopic": "Negative short answer and correction with 'have/has'",
+      "grammarFocus": "Auxiliary verb 'does' in Simple Present",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does a week have ten days?",
+      "answer": "No, it doesn't. A week has seven days.",
+      "acceptedAnswers": [
+        "No, it doesn't. A week has seven days.",
+        "No, it doesn't. A week has 7 days."
+      ],
+      "explanation": "Simple present question with auxiliary 'Does' requires 'No, it doesn't' followed by the factual statement using 'has'.",
+      "tags": [
+        "simple-present",
+        "auxiliary-does",
+        "days-of-the-week",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q068",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Dates and Possessives",
+      "subtopic": "Possessive 's and Prepositions of Time",
+      "grammarFocus": "Possessive noun ('s) and prepositions in/on",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "When is your teacher's birthday?",
+      "answer": "My teacher's birthday is in October.",
+      "explanation": "Uses possessive 's ('teacher's birthday') and the preposition 'in' before a month or 'on' before a specific date.",
+      "tags": [
+        "possessive-s",
+        "prepositions-of-time",
+        "months",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q069",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Quantifiers & Money",
+      "subtopic": "How much with uncountable nouns",
+      "grammarFocus": "How much with 'have'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How much money do you have?",
+      "answer": "I have twenty dollars.",
+      "explanation": "'How much' asks for an uncountable amount; answers state a specific quantity of currency with 'I have'.",
+      "tags": [
+        "how-much",
+        "money",
+        "simple-present",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q070",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Simple Present",
+      "subtopic": "Yes/No questions with Do and time expressions",
+      "grammarFocus": "Simple Present auxiliary 'do' and preposition 'at night'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Do you work at night?",
+      "answer": "No, I don't. I work during the day.",
+      "explanation": "'Do you' questions require 'Yes, I do' or 'No, I don't' followed by complete declarative clauses.",
+      "tags": [
+        "simple-present",
+        "do-auxiliary",
+        "time-expressions",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q071",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "There is / There are",
+      "subtopic": "How many questions with plural countable nouns",
+      "grammarFocus": "How many + plural noun + are there",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How many questions are there left in this review?",
+      "answer": "There are three questions left in this review.",
+      "acceptedAnswers": [
+        "There are three questions left in this review.",
+        "There are 3 questions left in this review."
+      ],
+      "explanation": "Plural countable questions use 'There are [number] questions left'.",
+      "tags": [
+        "how-many",
+        "there-are",
+        "numbers",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q072",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Dates and Calendar",
+      "subtopic": "Ordinal numbers and date formulation",
+      "grammarFocus": "Possessive noun / Verb to be with dates",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "What is tomorrow's date?",
+      "answer": "Tomorrow's date is September 18th.",
+      "explanation": "Dates are written with the month and the ordinal number.",
+      "tags": [
+        "dates",
+        "ordinal-numbers",
+        "calendar",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q073",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Routines and Adverbs of Frequency",
+      "subtopic": "Prepositions of time on days of the week",
+      "grammarFocus": "Usually with simple present / Preposition 'on'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "What do you usually do on Sunday morning?",
+      "answer": "I usually go for a run on Sunday morning.",
+      "explanation": "Frequency adverb 'usually' precedes the main action verb in Simple Present.",
+      "tags": [
+        "adverbs-of-frequency",
+        "routines",
+        "prepositions-of-time",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q074",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "There is / There are",
+      "subtopic": "How many with location",
+      "grammarFocus": "How many + plural noun + are there",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How many students are there in the room?",
+      "answer": "There are ten students in the room.",
+      "explanation": "Use 'There are' for plural countable nouns followed by the number and location.",
+      "tags": [
+        "there-are",
+        "how-many",
+        "classroom-objects",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q075",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Modal Verbs & Places",
+      "subtopic": "Can / Can't short answers",
+      "grammarFocus": "Modal verb 'can' negative short answer",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Can Tony buy medicine at the bank?",
+      "answer": "No, he can't. He can buy medicine at a pharmacy.",
+      "acceptedAnswers": [
+        "No, he can't. He can buy medicine at a pharmacy.",
+        "No, he can't. Tony can buy medicine at the pharmacy."
+      ],
+      "explanation": "Questions beginning with modal 'Can' require modal responses ('No, he can't'), not auxiliary 'doesn't'.",
+      "tags": [
+        "modal-verbs",
+        "can-cant",
+        "places-in-town",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q076",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Places in Town",
+      "subtopic": "Prepositions of Place (at a bakery)",
+      "grammarFocus": "Modal 'can' with location preposition",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Where can you buy a cake?",
+      "answer": "I can buy a cake at a bakery.",
+      "acceptedAnswers": [
+        "I can buy a cake at a bakery.",
+        "I can buy a cake in a bakery."
+      ],
+      "explanation": "Uses 'I can buy' paired with 'at a bakery' (correct spelling of bakery).",
+      "tags": [
+        "places",
+        "bakery",
+        "modal-can",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q077",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Places in Town",
+      "subtopic": "Activities in places",
+      "grammarFocus": "Modal 'can' with base verb",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "What can you do in a church?",
+      "answer": "I can pray in a church.",
+      "acceptedAnswers": [
+        "I can pray in a church."
+      ],
+      "explanation": "'I can pray in a church' pairs modal 'can' with base verb 'pray' and location.",
+      "tags": [
+        "places",
+        "church",
+        "modal-can",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q078",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Simple Present",
+      "subtopic": "Negative short answer with plural third person",
+      "grammarFocus": "Simple present auxiliary 'do' in negative short answer",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Do people usually eat special dinner in a pharmacy?",
+      "answer": "No, they don't. They usually eat a special dinner in a restaurant.",
+      "acceptedAnswers": [
+        "No, they don't. They usually eat a special dinner in a restaurant.",
+        "No, they don't. They usually eat special dinner in a restaurant."
+      ],
+      "explanation": "Negative short answer for 'Do people...?' is 'No, they don't'.",
+      "tags": [
+        "simple-present",
+        "short-answers",
+        "places",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q079",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Places and Services",
+      "subtopic": "Bookstore vs Library / Third person singular verbs",
+      "grammarFocus": "Third person singular -s (sells)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does the Laundromat sell books?",
+      "answer": "No, it doesn't. A bookstore sells books.",
+      "acceptedAnswers": [
+        "No, it doesn't. A bookstore sells books."
+      ],
+      "explanation": "'Laundromat' does not sell books; a 'bookstore' sells them, requiring singular verb 'sells'. Note 'library' lends books, not sells.",
+      "tags": [
+        "places",
+        "bookstore-vs-library",
+        "simple-present",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q080",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Physical Descriptions",
+      "subtopic": "Height inquiries with 'How tall'",
+      "grammarFocus": "Subject pronoun + verb to be + measurement + tall",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How tall is your mother?",
+      "answer": "She is 1.60 meters tall.",
+      "explanation": "'How tall is...' is answered by 'Subject + is + height + tall'.",
+      "tags": [
+        "physical-descriptions",
+        "how-tall",
+        "verb-to-be",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q081",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Simple Present",
+      "subtopic": "Collective nouns agreement (Family)",
+      "grammarFocus": "Third person singular inflection or plural pronoun replacement",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does your family exercise?",
+      "answer": "Yes, they do. My family exercises every weekend.",
+      "explanation": "Question uses 'Does', short answer can be 'Yes, they do' or 'Yes, it does', and 'family' takes third person singular 'exercises'.",
+      "tags": [
+        "simple-present",
+        "family",
+        "verb-agreement",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q082",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Physical Descriptions",
+      "subtopic": "Asking about height with 'What is your height'",
+      "grammarFocus": "I am + measurement + tall",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "What is your height?",
+      "answer": "I am 1.74 meters tall.",
+      "explanation": "Answered naturally as 'I am [measurement] tall' or 'My height is [measurement]'.",
+      "tags": [
+        "physical-descriptions",
+        "height",
+        "verb-to-be",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q083",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Weight noun vs verb",
+      "grammarFocus": "Possessive adjective + weight is [amount] / He weighs",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "What is your father's weight?",
+      "answer": "His weight is 200 pounds.",
+      "explanation": "Uses the noun form 'weight' in 'His weight is...' or the verb form 'He weighs 200 pounds'.",
+      "tags": [
+        "weight",
+        "physical-descriptions",
+        "possessive-adjectives",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q084",
+      "sourceId": "S01",
+      "lessonPairs": [
+        "11-20"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Physical Descriptions",
+      "subtopic": "Verb weigh in Simple Present",
+      "grammarFocus": "Third person singular -s on verb 'weigh'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How much does your mother weigh?",
+      "answer": "She weighs 220 pounds.",
+      "explanation": "The question asks with the verb 'weigh', so the declarative response uses third-person singular 'She weighs'.",
+      "tags": [
+        "weigh",
+        "simple-present",
+        "third-person-s",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q085",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Weather",
+      "subtopic": "What is ... like? description",
+      "grammarFocus": "Impersonal 'It is' / 'The weather is' for descriptions",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "What is the weather like in your city?",
+      "answer": "The weather in my city is cloudy.",
+      "explanation": "'What is [X] like?' means 'describe X'. It does not use the verb 'like' as in enjoying something.",
+      "tags": [
+        "weather",
+        "what-is-like",
+        "city",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q086",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather",
+      "subtopic": "Yes/No weather questions with impersonal It",
+      "grammarFocus": "Inversion 'Is it' -> 'Yes, it is'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it hot and sunny in the morning?",
+      "answer": "Yes, it is. It is hot and sunny in the morning.",
+      "explanation": "Requires affirmative short answer 'Yes, it is' followed by the complete statement.",
+      "tags": [
+        "weather",
+        "short-answers",
+        "impersonal-it",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q087",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather",
+      "subtopic": "Yes/No weather questions",
+      "grammarFocus": "Impersonal 'It is' with weather adjectives",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it cold and windy at night?",
+      "answer": "Yes, it is. It is cold and windy at night.",
+      "explanation": "Complete answer provides 'Yes, it is' followed by repetition of the climate condition and time marker 'at night'.",
+      "tags": [
+        "weather",
+        "time-expressions",
+        "windy",
+        "cold",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q088",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather",
+      "subtopic": "Afternoon weather description",
+      "grammarFocus": "Impersonal It is + adjective",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it cool in the afternoon?",
+      "answer": "Yes, it is. It is cool in the afternoon.",
+      "explanation": "Properly joins short confirmation 'Yes, it is' with the descriptive statement.",
+      "tags": [
+        "weather",
+        "cool",
+        "afternoon",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q089",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Weather and Extreme Adjectives",
+      "subtopic": "Extreme adjectives (freezing)",
+      "grammarFocus": "Non-gradable extreme adjectives (freezing does not take 'very')",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the weather like at the North Pole?",
+      "answer": "The weather is freezing at the North Pole.",
+      "acceptedAnswers": [
+        "The weather is freezing at the North Pole.",
+        "It is freezing at the North Pole.",
+        "It is very cold at the North Pole."
+      ],
+      "explanation": "'Freezing' is an extreme adjective meaning extremely cold; it does not pair with 'very'.",
+      "tags": [
+        "extreme-adjectives",
+        "weather",
+        "north-pole",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q090",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Weather",
+      "subtopic": "Subject 'It' in weather sentences",
+      "grammarFocus": "Impersonal pronoun 'It' as required subject",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it warm all day?",
+      "answer": "No, it isn't. It is sunny all day.",
+      "explanation": "In English, meteorological sentences require 'it' as dummy subject ('It is sunny all day', not 'All day is sunny').",
+      "tags": [
+        "impersonal-it",
+        "weather",
+        "negation",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q091",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather",
+      "subtopic": "Morning temperatures",
+      "grammarFocus": "Yes, it is + complete clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it cold in the morning?",
+      "answer": "Yes, it is. It is cold in the morning.",
+      "explanation": "Standard short answer 'Yes, it is' followed by 'It is cold in the morning'.",
+      "tags": [
+        "weather",
+        "morning",
+        "cold",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q092",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather",
+      "subtopic": "Afternoon temperatures",
+      "grammarFocus": "Yes, it is + complete clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it hot in the afternoon?",
+      "answer": "Yes, it is. It is hot in the afternoon.",
+      "explanation": "Uses impersonal 'it' and affirmative structure.",
+      "tags": [
+        "weather",
+        "hot",
+        "afternoon",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q093",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Weather",
+      "subtopic": "Compound weather adjectives",
+      "grammarFocus": "Listing multiple adjectives connected by commas and 'and'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "Is it windy, rainy and humid at night?",
+      "answer": "Yes, it is. It is windy, rainy, and humid at night.",
+      "explanation": "Matches compound adjectives with affirmative short answer.",
+      "tags": [
+        "weather",
+        "compound-adjectives",
+        "humid",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q094",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather by Location",
+      "subtopic": "Tropical weather descriptions",
+      "grammarFocus": "The weather is [adj] in [location]",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the weather like in Hawaii?",
+      "answer": "The weather is sunny in Hawaii.",
+      "acceptedAnswers": [
+        "The weather is sunny in Hawaii.",
+        "It is sunny in Hawaii.",
+        "The weather is hot and sunny in Hawaii."
+      ],
+      "explanation": "'What is the weather like in...' is answered by 'The weather is [adjective] in [place]'.",
+      "tags": [
+        "weather",
+        "places",
+        "hawaii",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q095",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather by Location",
+      "subtopic": "Desert climates / Spelling",
+      "grammarFocus": "The weather is + intensifier + adjective",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the weather like in the Sahara Desert?",
+      "answer": "The weather is very hot in the Sahara Desert.",
+      "acceptedAnswers": [
+        "The weather is very hot in the Sahara Desert.",
+        "It is very hot in the Sahara Desert."
+      ],
+      "explanation": "Uses 'The weather is very hot in the Sahara Desert'. Note correct spelling of 'very'.",
+      "tags": [
+        "weather",
+        "desert",
+        "sahara",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q096",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather by Location",
+      "subtopic": "Coastal weather / Prepositions of place",
+      "grammarFocus": "Preposition 'at the beach'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the weather like at the beach?",
+      "answer": "The weather is warm at the beach.",
+      "acceptedAnswers": [
+        "The weather is warm at the beach.",
+        "The weather is hot at the beach.",
+        "It is warm at the beach."
+      ],
+      "explanation": "Pairs weather condition with prepositional phrase 'at the beach'.",
+      "tags": [
+        "weather",
+        "beach",
+        "prepositions-of-place",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q097",
+      "sourceId": "S02",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather by Location",
+      "subtopic": "Mountain weather / Prepositions of place",
+      "grammarFocus": "Preposition 'in the mountains'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the weather like in the mountains?",
+      "answer": "The weather is windy in the mountains.",
+      "acceptedAnswers": [
+        "The weather is windy in the mountains.",
+        "The weather is cold in the mountains.",
+        "It is windy in the mountains."
+      ],
+      "explanation": "Answers the descriptive question using 'The weather is windy in the mountains'.",
+      "tags": [
+        "weather",
+        "mountains",
+        "prepositions",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q098",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons",
+      "subtopic": "Count of seasons in a year",
+      "grammarFocus": "There are + number + plural noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How many seasons are there in a year?",
+      "answer": "There are four seasons in a year.",
+      "acceptedAnswers": [
+        "There are four seasons in a year.",
+        "There are 4 seasons in a year."
+      ],
+      "explanation": "'How many seasons are there...' is answered by 'There are four seasons in a year'.",
+      "tags": [
+        "seasons",
+        "there-are",
+        "numbers",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q099",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Seasons and Duration",
+      "subtopic": "Verb 'last' with third person singular",
+      "grammarFocus": "Subject 'Each season' takes singular verb 'lasts'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "How many months does each season last?",
+      "answer": "Each season lasts three months.",
+      "acceptedAnswers": [
+        "Each season lasts three months.",
+        "Each season lasts 3 months."
+      ],
+      "explanation": "'Each season' is grammatically singular and takes verb inflection 'lasts' followed by 'three months'.",
+      "tags": [
+        "simple-present",
+        "each-singular",
+        "duration",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q100",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Seasons and Dates",
+      "subtopic": "Start date of winter / Preposition 'on'",
+      "grammarFocus": "Verb inflection 'starts' + preposition 'on' with dates",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "When does winter start?",
+      "answer": "Winter starts on December 21st.",
+      "acceptedAnswers": [
+        "Winter starts on December 21st."
+      ],
+      "explanation": "Seasons spoken of generally do not take 'the'; 'winter' takes third person singular 'starts on [date]'.",
+      "tags": [
+        "seasons",
+        "dates",
+        "prepositions-of-time",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q101",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons and Dates",
+      "subtopic": "Summer solstice date / Begin verb",
+      "grammarFocus": "Third person singular 'begins'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Does summer begin on June 21st?",
+      "answer": "Yes, it does. Summer begins on June 21st.",
+      "acceptedAnswers": [
+        "Yes, it does. Summer begins on June 21st."
+      ],
+      "explanation": "Short affirmative response followed by declarative clause with 'begins'.",
+      "tags": [
+        "summer",
+        "dates",
+        "begins",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q102",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons and Dates",
+      "subtopic": "Autumn start date",
+      "grammarFocus": "Subject replacement in 'Which season...?'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Which season starts on September 21st?",
+      "answer": "Autumn starts on September 21st.",
+      "acceptedAnswers": [
+        "Autumn starts on September 21st.",
+        "Fall starts on September 21st."
+      ],
+      "explanation": "'Autumn' or 'Fall' replaces 'Which season' as the subject.",
+      "tags": [
+        "autumn",
+        "fall",
+        "dates",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q103",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons and Dates",
+      "subtopic": "Spring start date",
+      "grammarFocus": "Third person singular 'begins'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "When does spring begin?",
+      "answer": "Spring begins on March 21st.",
+      "acceptedAnswers": [
+        "Spring begins on March 21st."
+      ],
+      "explanation": "Subject 'Spring' + verb 'begins' + preposition 'on' + date 'March 21st'.",
+      "tags": [
+        "spring",
+        "dates",
+        "begins",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q104",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Past Simple",
+      "subtopic": "Passive voice 'was born' with preposition in",
+      "grammarFocus": "I was born in + season",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question.",
+      "prompt": "In which season were you born?",
+      "answer": "I was born in winter.",
+      "explanation": "Uses past tense passive phrase 'I was born in' followed directly by the season name.",
+      "tags": [
+        "past-simple",
+        "was-born",
+        "seasons",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q105",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Order of Seasons",
+      "subtopic": "Preposition 'before'",
+      "grammarFocus": "Subject + is before + object",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Which season is before summer?",
+      "answer": "Spring is before summer.",
+      "acceptedAnswers": [
+        "Spring is before summer."
+      ],
+      "explanation": "Chronological order is Winter -> Spring -> Summer -> Autumn; thus Spring is before summer.",
+      "tags": [
+        "seasons-order",
+        "spring",
+        "summer",
+        "before",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q106",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Order of Seasons",
+      "subtopic": "Verb 'comes before'",
+      "grammarFocus": "Third person singular 'comes before'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Which season comes before winter?",
+      "answer": "Autumn comes before winter.",
+      "acceptedAnswers": [
+        "Autumn comes before winter.",
+        "Fall comes before winter."
+      ],
+      "explanation": "Autumn (Fall) immediately precedes winter in the annual sequence.",
+      "tags": [
+        "autumn",
+        "winter",
+        "comes-before",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q107",
+      "sourceId": "S03",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Seasons and Duration",
+      "subtopic": "Negative short answer and correction with singular subject",
+      "grammarFocus": "Auxiliary 'does' negative short answer and 'lasts'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "Does each season last four months?",
+      "answer": "No, it doesn't. Each season lasts three months.",
+      "acceptedAnswers": [
+        "No, it doesn't. Each season lasts three months.",
+        "No, it doesn't. Each season lasts 3 months."
+      ],
+      "explanation": "Auxiliary negative 'No, it doesn't' followed by singular correction 'Each season lasts three months'.",
+      "tags": [
+        "simple-present",
+        "negation",
+        "each-season",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q108",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons Synonyms",
+      "subtopic": "Autumn vs Fall",
+      "grammarFocus": "True/False comprehension",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer True or False.",
+      "prompt": "Autumn and fall are two different seasons.",
+      "answer": "False",
+      "acceptedAnswers": [
+        "False"
+      ],
+      "explanation": "'Autumn' and 'fall' refer to the exact same season; 'fall' is American English and 'autumn' is British English.",
+      "tags": [
+        "autumn",
+        "fall",
+        "synonyms",
+        "true-false",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q109",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons Duration",
+      "subtopic": "Length of seasons in months",
+      "grammarFocus": "True/False comprehension",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer True or False.",
+      "prompt": "Each season lasts four months.",
+      "answer": "False",
+      "acceptedAnswers": [
+        "False"
+      ],
+      "explanation": "There are 12 months in a year divided by 4 seasons, meaning each season lasts three months.",
+      "tags": [
+        "seasons",
+        "duration",
+        "true-false",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q110",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Seasons Sequence",
+      "subtopic": "Preposition before with seasons",
+      "grammarFocus": "True/False comprehension",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer True or False.",
+      "prompt": "Fall is before spring.",
+      "answer": "False",
+      "acceptedAnswers": [
+        "False"
+      ],
+      "explanation": "Winter comes between fall and spring; winter is before spring, while fall is before winter.",
+      "tags": [
+        "seasons-order",
+        "fall",
+        "spring",
+        "true-false",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q111",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Winter Dates",
+      "subtopic": "Start vs end of winter",
+      "grammarFocus": "True/False comprehension",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer True or False.",
+      "prompt": "Winter ends in December.",
+      "answer": "False",
+      "acceptedAnswers": [
+        "False"
+      ],
+      "explanation": "Winter begins in December (December 21st) and ends in March.",
+      "tags": [
+        "winter",
+        "december",
+        "true-false",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q112",
+      "sourceId": "S07",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Summer Dates",
+      "subtopic": "Summer beginning month",
+      "grammarFocus": "True/False comprehension",
+      "skillType": "Reading",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer True or False.",
+      "prompt": "Summer begins in June.",
+      "answer": "True",
+      "acceptedAnswers": [
+        "True"
+      ],
+      "explanation": "Summer begins on June 21st in the Northern Hemisphere.",
+      "tags": [
+        "summer",
+        "june",
+        "true-false",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q113",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Weather and Clothing",
+      "subtopic": "Infinitive of purpose (to keep warm)",
+      "grammarFocus": "Adjective following keep (keep warm)",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Fill in the blanks.",
+      "prompt": "In winter people use jackets to keep ____.",
+      "template": "In winter people use jackets to keep {{1}}.",
+      "answer": "In winter people use jackets to keep warm.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "warm"
+          ]
+        }
+      ],
+      "explanation": "People wear jackets to keep 'warm' in cold weather.",
+      "tags": [
+        "clothing",
+        "winter",
+        "keep-warm",
+        "fill-in-the-blank",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q114",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Nature and Seasons",
+      "subtopic": "Spring characteristics",
+      "grammarFocus": "Preposition 'in' with seasons",
+      "skillType": "Vocabulary",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Fill in the blanks.",
+      "prompt": "The vegetation is green and alive in ____.",
+      "template": "The vegetation is green and alive in {{1}}.",
+      "answer": "The vegetation is green and alive in spring.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "spring"
+          ]
+        }
+      ],
+      "explanation": "Spring is the season when vegetation becomes green and alive.",
+      "tags": [
+        "spring",
+        "vegetation",
+        "nature",
+        "fill-in-the-blank",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q115",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Medium",
+      "topic": "Vacations and Summer",
+      "subtopic": "Collocation 'take vacation' and destination 'beach'",
+      "grammarFocus": "Collocations with take / Preposition 'to the beach'",
+      "skillType": "Vocabulary",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Fill in the blanks.",
+      "prompt": "The people ____ their vacation and go to the ____ in summer.",
+      "template": "The people {{1}} their vacation and go to the {{2}} in summer.",
+      "answer": "The people take their vacation and go to the beach in summer.",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "Verb",
+          "acceptedAnswers": [
+            "take"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Place",
+          "acceptedAnswers": [
+            "beach"
+          ]
+        }
+      ],
+      "explanation": "English uses 'take their vacation' and people go to the 'beach' in summer.",
+      "tags": [
+        "summer",
+        "vacation",
+        "beach",
+        "collocations",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q116",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Time Divisions",
+      "subtopic": "Seasons and year",
+      "grammarFocus": "There are + plural noun + in a + singular noun",
+      "skillType": "Vocabulary",
+      "questionType": "multi_blank",
+      "gradingMode": "blanks",
+      "instruction": "Fill in the blanks.",
+      "prompt": "There are four ____ in a ____.",
+      "template": "There are four {{1}} in a {{2}}.",
+      "answer": "There are four seasons in a year.",
+      "blanks": [
+        {
+          "id": 1,
+          "label": "Plural Noun",
+          "acceptedAnswers": [
+            "seasons"
+          ]
+        },
+        {
+          "id": 2,
+          "label": "Singular Noun",
+          "acceptedAnswers": [
+            "year"
+          ]
+        }
+      ],
+      "explanation": "There are four 'seasons' in a 'year'.",
+      "tags": [
+        "seasons",
+        "year",
+        "fill-in-the-blank",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q117",
+      "sourceId": "S06",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A1",
+      "difficulty": "Easy",
+      "topic": "Beach Activities",
+      "subtopic": "Collocation 'get a tan'",
+      "grammarFocus": "Modal can + base verb + noun phrase",
+      "skillType": "Vocabulary",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Fill in the blanks.",
+      "prompt": "When you go to the beach you can get a ____.",
+      "template": "When you go to the beach you can get a {{1}}.",
+      "answer": "When you go to the beach you can get a tan.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "tan",
+            "suntan"
+          ]
+        }
+      ],
+      "explanation": "The idiom/collocation is 'get a tan' from sun exposure at the beach.",
+      "tags": [
+        "beach",
+        "tan",
+        "collocations",
+        "fill-in-the-blank",
+        "a1"
+      ]
+    },
+    {
+      "id": "BK1-Q118",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns and Negation",
+      "subtopic": "Any vs No with plural countable nouns",
+      "grammarFocus": "Negative verb + any vs Affirmative verb + no",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions correctly according to the picture.",
+      "prompt": "Are there any bicycles in the classroom?",
+      "media": {
+        "type": "image",
+        "name": "The Classroom (Page 158)",
+        "src": null
+      },
+      "answer": "No, there aren't any bicycles in the classroom.",
+      "acceptedAnswers": [
+        "No, there aren't any bicycles in the classroom.",
+        "No, there are no bicycles in the classroom."
+      ],
+      "explanation": "Use 'No, there aren't any [plural noun]' or 'No, there are no [plural noun]'. Double negatives like 'aren't no' are ungrammatical.",
+      "tags": [
+        "any-vs-no",
+        "there-are-not",
+        "classroom",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q119",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Somebody in affirmative statements",
+      "grammarFocus": "Affirmative statement with compound pronoun 'somebody'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions correctly according to the picture.",
+      "prompt": "Is there anybody in the classroom?",
+      "media": {
+        "type": "image",
+        "name": "The Classroom (Page 158)",
+        "src": null
+      },
+      "answer": "Yes, there is. There is somebody in the classroom.",
+      "acceptedAnswers": [
+        "Yes, there is. There is somebody in the classroom.",
+        "Yes, there is somebody in the classroom."
+      ],
+      "explanation": "'Anybody' in questions changes to 'somebody' in affirmative answers; 'somebody' is written as a single compound word.",
+      "tags": [
+        "somebody",
+        "anybody",
+        "indefinite-pronouns",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q120",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Something hanging on walls",
+      "grammarFocus": "Something in affirmative clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions correctly according to the picture.",
+      "prompt": "Is there anything hanging on the walls?",
+      "media": {
+        "type": "image",
+        "name": "The Classroom (Page 158)",
+        "src": null
+      },
+      "answer": "Yes, there is. There is something hanging on the walls.",
+      "acceptedAnswers": [
+        "Yes, there is. There is something hanging on the walls.",
+        "Yes, there is something hanging on the walls."
+      ],
+      "explanation": "Affirmative answer uses 'There is something hanging on the walls'.",
+      "tags": [
+        "something",
+        "hanging",
+        "preposition-on",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q121",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns and Negation",
+      "subtopic": "Nobody vs isn't anybody",
+      "grammarFocus": "There is nobody vs There isn't anybody",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions correctly according to the picture.",
+      "prompt": "Is there somebody under the desk?",
+      "media": {
+        "type": "image",
+        "name": "The Classroom (Page 158)",
+        "src": null
+      },
+      "answer": "No, there isn't. There is nobody under the desk.",
+      "acceptedAnswers": [
+        "No, there isn't. There is nobody under the desk.",
+        "No, there isn't anybody under the desk.",
+        "No, there is nobody under the desk."
+      ],
+      "explanation": "Under the desk is empty; use 'There is nobody' (affirmative verb) or 'There isn't anybody' (negative verb).",
+      "tags": [
+        "nobody",
+        "anybody",
+        "under",
+        "prepositions",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q122",
+      "sourceId": "S09",
+      "lessonPairs": [
+        "21-22"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Negative Quantifiers with Have",
+      "subtopic": "Doesn't have any vs Has no",
+      "grammarFocus": "Auxiliary negative doesn't have any windows",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions correctly according to the picture.",
+      "prompt": "Does the classroom have any windows?",
+      "media": {
+        "type": "image",
+        "name": "The Classroom (Page 158)",
+        "src": null
+      },
+      "answer": "No, it doesn't. The classroom doesn't have any windows.",
+      "acceptedAnswers": [
+        "No, it doesn't. The classroom doesn't have any windows.",
+        "No, it doesn't have any windows.",
+        "No, the classroom has no windows."
+      ],
+      "explanation": "Negation with auxiliary uses 'doesn't have any windows' or affirmative verb 'has no windows'.",
+      "tags": [
+        "doesnt-have-any",
+        "has-no",
+        "quantifiers",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q123",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "23-24"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Earth and Continents",
+      "subtopic": "Verb prefer with third person -s",
+      "grammarFocus": "Subject-verb agreement: My father prefers",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentences with the words given.",
+      "prompt": "My father ____ to travel by plane.",
+      "template": "My father {{1}} to travel by plane.",
+      "answer": "My father prefers to travel by plane.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "prefers"
+          ]
+        }
+      ],
+      "explanation": "Subject 'My father' is third person singular, requiring the verb with -s ('prefers') before infinitive 'to travel'.",
+      "tags": [
+        "third-person-s",
+        "prefers",
+        "travel",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q124",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "23-24"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Negative Infinitives",
+      "subtopic": "Bare infinitive following 'like to'",
+      "grammarFocus": "Doesn't like to + base form of verb",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentences with the words given.",
+      "prompt": "My friend doesn't like to ____ by car.",
+      "template": "My friend doesn't like to {{1}} by car.",
+      "answer": "My friend doesn't like to travel by car.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "travel"
+          ]
+        }
+      ],
+      "explanation": "After 'to' in the structure 'like to', the verb remains in base infinitive form without -s ('travel').",
+      "tags": [
+        "infinitives",
+        "travel",
+        "verb-patterns",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q125",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "23-24"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Adverbs of Frequency",
+      "subtopic": "Word order before action verbs",
+      "grammarFocus": "Subject + frequency adverb + main verb",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions.",
+      "prompt": "Do you sometimes eat vegetables?",
+      "answer": "Yes, I do. I sometimes eat vegetables.",
+      "acceptedAnswers": [
+        "Yes, I do. I sometimes eat vegetables.",
+        "No, I don't. I never eat vegetables."
+      ],
+      "explanation": "Adverbs of frequency (always, usually, sometimes, seldom, never) precede main action verbs.",
+      "tags": [
+        "adverbs-of-frequency",
+        "word-order",
+        "simple-present",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q126",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "23-24"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Adverbs of Frequency",
+      "subtopic": "Word order after verb to be",
+      "grammarFocus": "Subject + verb to be + frequency adverb + adjective",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the questions.",
+      "prompt": "Are you sometimes late to school?",
+      "answer": "Yes, I am. I am sometimes late to school.",
+      "acceptedAnswers": [
+        "Yes, I am. I am sometimes late to school.",
+        "No, I'm not. I am never late to school."
+      ],
+      "explanation": "Frequency adverbs must be placed AFTER the verb to be ('I am sometimes late', not 'I sometimes am late').",
+      "tags": [
+        "adverbs-of-frequency",
+        "verb-to-be",
+        "word-order",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q127",
+      "sourceId": "S10",
+      "lessonPairs": [
+        "23-24"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Adverbs of Frequency",
+      "subtopic": "How often questions without Yes/No",
+      "grammarFocus": "How often answered with direct frequency adverb clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the questions.",
+      "prompt": "How often do you buy hotdogs?",
+      "answer": "I seldom buy hot dogs.",
+      "explanation": "'How often' is an open question word asking for frequency, not a yes/no question. Answer begins directly with subject + adverb.",
+      "tags": [
+        "how-often",
+        "seldom",
+        "adverbs-of-frequency",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q128",
+      "sourceId": "S08",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B2",
+      "difficulty": "Medium",
+      "topic": "Idioms and Phrasal Verbs",
+      "subtopic": "Workplace and Academic Idioms",
+      "grammarFocus": "Phrasal verbs followed by preposition on",
+      "skillType": "Vocabulary",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Define the expression and provide an example.",
+      "prompt": "What does the expression 'TO FALL BEHIND' mean, and how is it used?",
+      "answer": "It means atrasarse or quedarse atrás. Example: 'I fell behind on my homework this week.'",
+      "explanation": "'To fall behind' means to move or progress more slowly than others, requiring 'on' before the task.",
+      "tags": [
+        "idioms",
+        "phrasal-verbs",
+        "fall-behind",
+        "slang",
+        "b2"
+      ]
+    },
+    {
+      "id": "BK1-Q129",
+      "sourceId": "S08",
+      "lessonPairs": [
+        "19-20"
+      ],
+      "englishLevel": "B2",
+      "difficulty": "Hard",
+      "topic": "Idiomatic Expressions",
+      "subtopic": "Preposition 'to' followed by gerund (-ing)",
+      "grammarFocus": "Look forward to + noun / gerund (-ing)",
+      "skillType": "Grammar",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Define the expression and explain its grammatical rule.",
+      "prompt": "What does the expression 'TO LOOK FORWARD TO' mean, and what grammatical rule follows it?",
+      "answer": "It means esperar algo con ganas. It must always be followed by a noun or a verb in gerund (-ing). Example: 'I'm looking forward to the weekend.'",
+      "explanation": "In 'look forward to', 'to' is a preposition, not an infinitive marker, so any following verb takes the -ing form.",
+      "tags": [
+        "idioms",
+        "look-forward-to",
+        "gerund-after-preposition",
+        "b2"
+      ]
+    },
+    {
+      "id": "BK1-Q130",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "More than with countable nouns",
+      "grammarFocus": "Subject + has more + [plural noun] + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does California have more people than Delaware?",
+      "answer": "Yes, it does. California has more people than Delaware.",
+      "acceptedAnswers": [
+        "Yes, it does. California has more people than Delaware.",
+        "Yes, it does."
+      ],
+      "explanation": "Affirmative answer uses auxiliary 'does' followed by the complete comparative clause 'has more people than'.",
+      "tags": [
+        "comparisons",
+        "more-than",
+        "countable-nouns",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q131",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Negative response with fewer than",
+      "grammarFocus": "Negative auxiliary or 'has fewer ... than'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does Delaware have more people than California?",
+      "answer": "No, it doesn't. Delaware has fewer people than California.",
+      "acceptedAnswers": [
+        "No, it doesn't. Delaware has fewer people than California.",
+        "No, it doesn't. California has more people than Delaware.",
+        "No, it doesn't. Delaware doesn't have more people than California."
+      ],
+      "explanation": "Delaware has less population, requiring 'fewer people than' for plural count nouns or stating that California has more.",
+      "tags": [
+        "comparisons",
+        "fewer-than",
+        "countable-nouns",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q132",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Which state questions",
+      "grammarFocus": "Subject replacement in Which questions",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Which state has more people than Delaware?",
+      "answer": "California has more people than Delaware.",
+      "acceptedAnswers": [
+        "California has more people than Delaware."
+      ],
+      "explanation": "'California' directly replaces 'Which state' as the subject of the sentence.",
+      "tags": [
+        "comparisons",
+        "which-questions",
+        "more-than",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q133",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "More than with objects",
+      "grammarFocus": "A library has more + [plural noun] + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does a library have more books than a bookcase?",
+      "answer": "Yes, it does. A library has more books than a bookcase.",
+      "acceptedAnswers": [
+        "Yes, it does. A library has more books than a bookcase."
+      ],
+      "explanation": "Affirmative answer confirming that a library holds more books than an individual bookcase.",
+      "tags": [
+        "comparisons",
+        "more-than",
+        "books",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q134",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "There are more than",
+      "grammarFocus": "Are there more + plural noun + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Are there more accidents in the country than in the city?",
+      "answer": "No, there aren't. There are more accidents in the city than in the country.",
+      "acceptedAnswers": [
+        "No, there aren't. There are more accidents in the city than in the country.",
+        "No, there aren't. There are more accidents in the city."
+      ],
+      "explanation": "Negative existential response using 'No, there aren't' followed by correction 'There are more accidents in the city'.",
+      "tags": [
+        "there-are",
+        "accidents",
+        "comparisons",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q135",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Nature comparisons with trees",
+      "grammarFocus": "Does a garden have more + plural noun + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does a garden have more trees than a forest?",
+      "answer": "No, it doesn't. A forest has more trees than a garden.",
+      "acceptedAnswers": [
+        "No, it doesn't. A forest has more trees than a garden.",
+        "No, it doesn't. A garden has fewer trees than a forest."
+      ],
+      "explanation": "A forest contains significantly more trees than a domestic garden.",
+      "tags": [
+        "comparisons",
+        "forest",
+        "garden",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q136",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Fewer than formulation",
+      "grammarFocus": "Question transformation with 'Does ... have fewer ... than'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Make a question using FEWER THAN from the given statement: 'An apartment has fewer rooms than a house.'",
+      "prompt": "An apartment has fewer rooms than a house.",
+      "answer": "Does an apartment have fewer rooms than a house?",
+      "acceptedAnswers": [
+        "Does an apartment have fewer rooms than a house?"
+      ],
+      "explanation": "Third person singular question takes auxiliary 'Does' and keeps base verb 'have'.",
+      "tags": [
+        "fewer-than",
+        "question-formation",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q137",
+      "sourceId": "S11",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Fewer than formulation with irregular plural nouns",
+      "grammarFocus": "Does a modern family have fewer children than an old-fashioned family?",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Make a question using FEWER THAN from the given statement: 'A modern family has fewer children than an old-fashioned family.'",
+      "prompt": "A modern family has fewer children than an old-fashioned family.",
+      "answer": "Does a modern family have fewer children than an old-fashioned family?",
+      "acceptedAnswers": [
+        "Does a modern family have fewer children than an old-fashioned family?"
+      ],
+      "explanation": "'Children' is an irregular plural countable noun, requiring 'fewer' rather than 'less'.",
+      "tags": [
+        "fewer-than",
+        "children",
+        "question-formation",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q138",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Less than with uncountable nouns (water)",
+      "grammarFocus": "Is there less + [uncountable noun] + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Make a question using LESS THAN from the given statement: 'There is less water in a creek than in a river.'",
+      "prompt": "There is less water in a creek than in a river.",
+      "answer": "Is there less water in a creek than in a river?",
+      "acceptedAnswers": [
+        "Is there less water in a creek than in a river?"
+      ],
+      "explanation": "'Water' is uncountable, so 'less than' is used with singular inversion 'Is there'.",
+      "tags": [
+        "less-than",
+        "uncountable-nouns",
+        "water",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q139",
+      "sourceId": "S12",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Less than with uncountable nouns (pollution)",
+      "grammarFocus": "There is less pollution in the mountains than in the cities",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Is there less pollution in the mountains than in the cities?",
+      "answer": "Yes, there is. There is less pollution in the mountains than in the cities.",
+      "acceptedAnswers": [
+        "Yes, there is. There is less pollution in the mountains than in the cities.",
+        "Yes, there is."
+      ],
+      "explanation": "Confirms with 'Yes, there is' followed by the declarative comparison using 'less pollution than'.",
+      "tags": [
+        "less-than",
+        "pollution",
+        "mountains",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q140",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Negative answers with nothing",
+      "grammarFocus": "There is nothing in + noun phrase",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Is there anything in that bag?",
+      "answer": "No, there isn't. There is nothing in that bag.",
+      "acceptedAnswers": [
+        "No, there isn't. There is nothing in that bag.",
+        "No, there isn't anything in that bag."
+      ],
+      "explanation": "Negative response pairs 'No, there isn't' with 'There is nothing' (affirmative verb + negative pronoun).",
+      "tags": [
+        "anything",
+        "nothing",
+        "indefinite-pronouns",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q141",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Quantifiers",
+      "subtopic": "Some with uncountable nouns in affirmative clauses",
+      "grammarFocus": "There is some + uncountable noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Is there any water in the glass?",
+      "answer": "Yes, there is. There is some water in the glass.",
+      "acceptedAnswers": [
+        "Yes, there is. There is some water in the glass."
+      ],
+      "explanation": "'Any' in questions becomes 'some' in affirmative declarative statements.",
+      "tags": [
+        "some-vs-any",
+        "water",
+        "there-is",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q142",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Somebody on top of roof",
+      "grammarFocus": "There is somebody + prepositional phrase",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Is there anybody on top of the roof?",
+      "answer": "Yes, there is. There is somebody on top of the roof.",
+      "acceptedAnswers": [
+        "Yes, there is. There is somebody on top of the roof."
+      ],
+      "explanation": "'Anybody' in questions changes to compound pronoun 'somebody' in affirmative replies.",
+      "tags": [
+        "somebody",
+        "anybody",
+        "roof",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q143",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Quantifiers and Negation",
+      "subtopic": "No vs Nothing before a noun",
+      "grammarFocus": "There is no + noun vs There isn't any + noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Is there any honey in the jar?",
+      "answer": "No, there isn't. There is no honey in the jar.",
+      "acceptedAnswers": [
+        "No, there isn't. There is no honey in the jar.",
+        "No, there isn't any honey in the jar."
+      ],
+      "explanation": "'Nothing' cannot modify a noun; use determiner 'no' ('no honey') or negative auxiliary with 'any' ('isn't any honey').",
+      "tags": [
+        "no-vs-any",
+        "honey",
+        "uncountable",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q144",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Some before plural count nouns",
+      "grammarFocus": "There are some + plural noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Are there any students in the classroom?",
+      "answer": "Yes, there are. There are some students in the classroom.",
+      "acceptedAnswers": [
+        "Yes, there are. There are some students in the classroom."
+      ],
+      "explanation": "Use 'some students', not 'somebody students'. 'Somebody' is an independent pronoun.",
+      "tags": [
+        "some",
+        "students",
+        "plural-nouns",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q145",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Some vs Something with plural nouns",
+      "grammarFocus": "There are some new styles",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Are there any new styles in the store?",
+      "answer": "Yes, there are. There are some new styles in the store.",
+      "acceptedAnswers": [
+        "Yes, there are. There are some new styles in the store."
+      ],
+      "explanation": "'Some' quantifies plural noun 'new styles'. 'Something new styles' is ungrammatical.",
+      "tags": [
+        "some",
+        "styles",
+        "store",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q146",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Quantifiers in Negative Sentences",
+      "subtopic": "Aren't any with plural count nouns",
+      "grammarFocus": "There aren't any + plural noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Are there any shoes in the store?",
+      "answer": "No, there aren't. There aren't any shoes in the store.",
+      "acceptedAnswers": [
+        "No, there aren't. There aren't any shoes in the store.",
+        "No, there are no shoes in the store."
+      ],
+      "explanation": "Negative plural responses use 'There aren't any [nouns]' or 'There are no [nouns]'.",
+      "tags": [
+        "any",
+        "shoes",
+        "negation",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q147",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Simple Present Negation",
+      "subtopic": "Doesn't feel any vs Feels no",
+      "grammarFocus": "Negative verb + any + abstract noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Does he feel any hate in the world?",
+      "answer": "No, he doesn't. He doesn't feel any hate in the world.",
+      "acceptedAnswers": [
+        "No, he doesn't. He doesn't feel any hate in the world.",
+        "No, he doesn't. He feels no hate in the world."
+      ],
+      "explanation": "Simple present negation requires auxiliary 'doesn't' + base verb 'feel' + 'any hate'.",
+      "tags": [
+        "simple-present",
+        "hate",
+        "any",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q148",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Simple Present Affirmative",
+      "subtopic": "Third person -s and some",
+      "grammarFocus": "Subject + verb-s + some + noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Does the car produce any pollution in that city?",
+      "answer": "Yes, it does. The car produces some pollution in that city.",
+      "acceptedAnswers": [
+        "Yes, it does. The car produces some pollution in that city."
+      ],
+      "explanation": "'The car' is third person singular, requiring inflection 'produces' and quantifier 'some' in affirmative clauses.",
+      "tags": [
+        "third-person-s",
+        "some",
+        "pollution",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q149",
+      "sourceId": "S13",
+      "lessonPairs": [
+        "25-26"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Somebody in affirmative clauses with third person singular",
+      "grammarFocus": "Subject + verb-s + somebody",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Does she help anybody on Christmas?",
+      "answer": "Yes, she does. She helps somebody on Christmas.",
+      "acceptedAnswers": [
+        "Yes, she does. She helps somebody on Christmas.",
+        "Yes, she does. She helps someone on Christmas."
+      ],
+      "explanation": "Affirmative statements replace interrogative 'anybody' with 'somebody' or 'someone' and conjugate 'helps'.",
+      "tags": [
+        "somebody",
+        "anybody",
+        "christmas",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q150",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Comparative of short adjectives (-er)",
+      "grammarFocus": "Subject + is + adj-er + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences using comparative form: 'Mary's handwriting is clear. Joe's handwriting is very clear.'",
+      "prompt": "Mary's handwriting is clear. Joe's handwriting is very clear.",
+      "answer": "Joe's handwriting is clearer than Mary's handwriting.",
+      "acceptedAnswers": [
+        "Joe's handwriting is clearer than Mary's handwriting.",
+        "Joe's handwriting is clearer than Mary's."
+      ],
+      "explanation": "'Clear' is a single-syllable adjective, taking suffix '-er' to form 'clearer than'.",
+      "tags": [
+        "comparatives",
+        "-er",
+        "clear",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q151",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Comparative of fast adverb/adjective",
+      "grammarFocus": "Subject + runs + faster + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'A motorcycle runs fast. A car runs very fast.'",
+      "prompt": "A motorcycle runs fast. A car runs very fast.",
+      "answer": "A car runs faster than a motorcycle.",
+      "acceptedAnswers": [
+        "A car runs faster than a motorcycle."
+      ],
+      "explanation": "'Fast' is a one-syllable word forming comparative 'faster than'.",
+      "tags": [
+        "comparatives",
+        "fast",
+        "vehicles",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q152",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives",
+      "subtopic": "Long adjectives (more than 2 syllables)",
+      "grammarFocus": "More + adjective + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'Daniel is incredible. Charlie is very incredible.'",
+      "prompt": "Daniel is incredible. Charlie is very incredible.",
+      "answer": "Charlie is more incredible than Daniel.",
+      "acceptedAnswers": [
+        "Charlie is more incredible than Daniel."
+      ],
+      "explanation": "'Incredible' has four syllables, requiring 'more incredible than' rather than an '-er' suffix.",
+      "tags": [
+        "comparatives",
+        "more-than",
+        "long-adjectives",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q153",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives",
+      "subtopic": "Two-syllable adjectives ending in -y",
+      "grammarFocus": "Y changes to i + er (busier than)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'Mr. Baxter is busy. Mr. Peyton is very busy.'",
+      "prompt": "Mr. Baxter is busy. Mr. Peyton is very busy.",
+      "answer": "Mr. Peyton is busier than Mr. Baxter.",
+      "acceptedAnswers": [
+        "Mr. Peyton is busier than Mr. Baxter."
+      ],
+      "explanation": "Two-syllable adjectives ending in consonant + y change 'y' to 'i' and add '-er' ('busier than').",
+      "tags": [
+        "comparatives",
+        "spelling-rules",
+        "busier",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q154",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Adjective heavy (y to i)",
+      "grammarFocus": "Heavier than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'A car is heavy. An airplane is very heavy.'",
+      "prompt": "A car is heavy. An airplane is very heavy.",
+      "answer": "An airplane is heavier than a car.",
+      "acceptedAnswers": [
+        "An airplane is heavier than a car."
+      ],
+      "explanation": "'Heavy' changes 'y' to 'i' plus '-er', forming 'heavier than'.",
+      "tags": [
+        "comparatives",
+        "heavier",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q155",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Long adjectives in superlative form",
+      "grammarFocus": "The most + adjective",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "English is the ____ language of all. (important)",
+      "template": "English is the {{1}} language of all.",
+      "answer": "English is the most important language of all.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "most important"
+          ]
+        }
+      ],
+      "explanation": "'Important' is a three-syllable adjective; its superlative requires 'most important' preceded by 'the'.",
+      "tags": [
+        "superlatives",
+        "most-important",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q156",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Two-syllable adjectives ending in -y",
+      "grammarFocus": "The + adj(-iest)",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "Kathy is the ____ girl in her class. (pretty)",
+      "template": "Kathy is the {{1}} girl in her class.",
+      "answer": "Kathy is the prettiest girl in her class.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "prettiest"
+          ]
+        }
+      ],
+      "explanation": "'Pretty' ends in consonant + y, forming superlative 'prettiest'.",
+      "tags": [
+        "superlatives",
+        "prettiest",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q157",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Superlatives",
+      "subtopic": "Consonant-vowel-consonant doubling",
+      "grammarFocus": "The biggest",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "Alaska is the ____ state in the U.S.A. (big)",
+      "template": "Alaska is the {{1}} state in the U.S.A.",
+      "answer": "Alaska is the biggest state in the U.S.A.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "biggest"
+          ]
+        }
+      ],
+      "explanation": "'Big' follows the CVC pattern, doubling the final consonant 'g' before '-est' ('biggest').",
+      "tags": [
+        "superlatives",
+        "biggest",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q158",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Long adjectives (comfortable)",
+      "grammarFocus": "The most comfortable",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "The den is the ____ room in the house. (comfortable)",
+      "template": "The den is the {{1}} room in the house.",
+      "answer": "The den is the most comfortable room in the house.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "most comfortable"
+          ]
+        }
+      ],
+      "explanation": "'Comfortable' has four syllables, forming superlative with 'most comfortable'.",
+      "tags": [
+        "superlatives",
+        "comfortable",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q159",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Equality",
+      "subtopic": "Adverbs of manner with as ... as",
+      "grammarFocus": "As + adverb + as",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Combine the sentences using AS ... AS: 'Mr. Frazier speaks clearly and Mr. Seinfeld does, too.'",
+      "prompt": "Mr. Frazier speaks clearly and Mr. Seinfeld does, too.",
+      "answer": "Mr. Frazier speaks as clearly as Mr. Seinfeld.",
+      "acceptedAnswers": [
+        "Mr. Frazier speaks as clearly as Mr. Seinfeld."
+      ],
+      "explanation": "Expresses identical degree using 'as + adverb (clearly) + as'.",
+      "tags": [
+        "equality",
+        "as-as",
+        "adverbs",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q160",
+      "sourceId": "S14",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Equality",
+      "subtopic": "Countable nouns with as many ... as",
+      "grammarFocus": "As many + plural count noun + as",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Combine the sentences using AS ... AS: 'Mexico City has many skyscrapers. New York has many skyscrapers, too.'",
+      "prompt": "Mexico City has many skyscrapers. New York has many skyscrapers, too.",
+      "answer": "Mexico City has as many skyscrapers as New York.",
+      "acceptedAnswers": [
+        "Mexico City has as many skyscrapers as New York."
+      ],
+      "explanation": "'Skyscrapers' is a plural count noun, requiring quantifier structure 'as many ... as'.",
+      "tags": [
+        "equality",
+        "as-many-as",
+        "skyscrapers",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q161",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Negative response with faster than",
+      "grammarFocus": "No, it isn't + A jet is faster than a car",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is a car faster than a jet?",
+      "answer": "No, it isn't. A jet is faster than a car.",
+      "acceptedAnswers": [
+        "No, it isn't. A jet is faster than a car.",
+        "No, it isn't. A car is not faster than a jet."
+      ],
+      "explanation": "A jet travels at much higher speeds than an automobile.",
+      "tags": [
+        "comparatives",
+        "faster",
+        "vehicles",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q162",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Geography and climate comparisons",
+      "grammarFocus": "Subject + is colder than + object",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is Canada colder than Cancun?",
+      "answer": "Yes, it is. Canada is colder than Cancun.",
+      "acceptedAnswers": [
+        "Yes, it is. Canada is colder than Cancun."
+      ],
+      "explanation": "'Cold' is a one-syllable adjective taking '-er' ('colder than').",
+      "tags": [
+        "comparatives",
+        "colder",
+        "geography",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q163",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives",
+      "subtopic": "Singular organism vs insect",
+      "grammarFocus": "Subject + is smaller than an ant",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "What is smaller than an ant?",
+      "answer": "A bacterium is smaller than an ant.",
+      "acceptedAnswers": [
+        "A bacterium is smaller than an ant.",
+        "Bacteria are smaller than ants.",
+        "A flea is smaller than an ant."
+      ],
+      "explanation": "'A bacterium' (singular) is microscopic and significantly smaller than an ant.",
+      "tags": [
+        "comparatives",
+        "smaller",
+        "vocabulary",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q164",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "State land area comparisons",
+      "grammarFocus": "Chihuahua is bigger than Sonora",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Which state is bigger than Sonora?",
+      "answer": "Chihuahua is bigger than Sonora.",
+      "acceptedAnswers": [
+        "Chihuahua is bigger than Sonora."
+      ],
+      "explanation": "Chihuahua is the largest state by land area in Mexico, larger than Sonora.",
+      "tags": [
+        "comparatives",
+        "bigger",
+        "geography",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q165",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Irregular Comparatives",
+      "subtopic": "Good -> Better than",
+      "grammarFocus": "Better than with beverages",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is coffee better than orange juice?",
+      "answer": "No, it isn't. Orange juice is better than coffee.",
+      "acceptedAnswers": [
+        "No, it isn't. Orange juice is better than coffee.",
+        "Yes, it is. Coffee is better than orange juice."
+      ],
+      "explanation": "Uses irregular comparative 'better than' without articles before general drinks.",
+      "tags": [
+        "comparatives",
+        "better-than",
+        "irregular",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q166",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Irregular Comparatives",
+      "subtopic": "Bad -> Worse than",
+      "grammarFocus": "Worse than with plural subjects",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Are cats worse than dogs as pets?",
+      "answer": "No, they aren't. Cats are not worse than dogs as pets.",
+      "acceptedAnswers": [
+        "No, they aren't. Cats are not worse than dogs as pets.",
+        "Yes, they are. Cats are worse than dogs as pets.",
+        "No, they aren't. Cats are better than dogs as pets."
+      ],
+      "explanation": "'Worse' is the irregular comparative of 'bad'. No definite article is used for general plural species.",
+      "tags": [
+        "comparatives",
+        "worse-than",
+        "irregular",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q167",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Easy -> Easier with languages",
+      "grammarFocus": "English is easier than French",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is English easier than French?",
+      "answer": "Yes, it is. English is easier than French.",
+      "acceptedAnswers": [
+        "Yes, it is. English is easier than French.",
+        "No, it isn't. French is easier than English."
+      ],
+      "explanation": "Languages do not take articles ('English', not 'the English'). 'Easy' changes to 'easier than'.",
+      "tags": [
+        "comparatives",
+        "easier",
+        "languages",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q168",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Superlatives",
+      "subtopic": "Animal kingdom superlatives",
+      "grammarFocus": "The blue whale is the biggest animal",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using superlatives.",
+      "prompt": "Which is the biggest animal on the planet?",
+      "answer": "The blue whale is the biggest animal on the planet.",
+      "acceptedAnswers": [
+        "The blue whale is the biggest animal on the planet.",
+        "The blue whale is the biggest animal."
+      ],
+      "explanation": "The blue whale holds the record as the largest animal on Earth; uses 'the biggest'.",
+      "tags": [
+        "superlatives",
+        "biggest",
+        "animals",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q169",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Slowest animal",
+      "grammarFocus": "The sloth is the slowest animal",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using superlatives.",
+      "prompt": "Is the turtle the slowest animal?",
+      "answer": "No, it isn't. The sloth is the slowest animal.",
+      "acceptedAnswers": [
+        "No, it isn't. The sloth is the slowest animal.",
+        "No, it isn't. The turtle is not the slowest animal."
+      ],
+      "explanation": "The sloth moves slower than the turtle; 'slow' forms 'the slowest'.",
+      "tags": [
+        "superlatives",
+        "slowest",
+        "animals",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q170",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Mixed Comparative & Superlative Sentences",
+      "subtopic": "Three-way comparison pattern",
+      "grammarFocus": "[X] is [comparative] than [Y], but [Z] is the [superlative]",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Use comparative and superlative for: 'Basketball, football, baseball' with adjective 'interesting'.",
+      "prompt": "Basketball, football, baseball",
+      "answer": "Basketball is more interesting than football, but baseball is the most interesting.",
+      "acceptedAnswers": [
+        "Basketball is more interesting than football, but baseball is the most interesting."
+      ],
+      "explanation": "Combines comparative 'more interesting than' and superlative 'the most interesting' without definite articles before sports.",
+      "tags": [
+        "comparatives",
+        "superlatives",
+        "sports",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q171",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Mixed Comparative & Superlative Sentences",
+      "subtopic": "Irregular good -> better -> best",
+      "grammarFocus": "Brand comparison with better than and the best",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Use comparative and superlative for: 'Pizza Hut, Domino's, Pizza del Rey' with adjective 'good'.",
+      "prompt": "Pizza Hut, Domino's, Pizza del Rey",
+      "answer": "Pizza Hut is better than Domino's, but Pizza del Rey is the best.",
+      "acceptedAnswers": [
+        "Pizza Hut is better than Domino's, but Pizza del Rey is the best."
+      ],
+      "explanation": "Applies irregular forms 'better than' and 'the best' in a single compound sentence.",
+      "tags": [
+        "comparatives",
+        "superlatives",
+        "irregular-adjectives",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q172",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reflexive Pronouns",
+      "subtopic": "By himself meaning alone",
+      "grammarFocus": "Subject + likes to be + by himself",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using reflexive pronouns.",
+      "prompt": "Does your father like to be by himself sometimes?",
+      "answer": "Yes, he does. He likes to be by himself sometimes.",
+      "acceptedAnswers": [
+        "Yes, he does. He likes to be by himself sometimes.",
+        "No, he doesn't. He doesn't like to be by himself."
+      ],
+      "explanation": "'By himself' means alone for a masculine third-person singular subject.",
+      "tags": [
+        "reflexive-pronouns",
+        "himself",
+        "by-himself",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q173",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reflexive Pronouns",
+      "subtopic": "By herself with feminine subject",
+      "grammarFocus": "Subject + likes to cook + by herself",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using reflexive pronouns.",
+      "prompt": "Does your mother like to cook by herself?",
+      "answer": "Yes, she does. She likes to cook by herself.",
+      "acceptedAnswers": [
+        "Yes, she does. She likes to cook by herself."
+      ],
+      "explanation": "'Herself' corresponds to feminine third person singular subject 'she'.",
+      "tags": [
+        "reflexive-pronouns",
+        "herself",
+        "cooking",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q174",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Too and Enough",
+      "subtopic": "Enough with adjective position",
+      "grammarFocus": "Subject + verb to be + not + adj + enough",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using TOO or ENOUGH.",
+      "prompt": "Are you strong enough to lift 200 pounds?",
+      "answer": "No, I am not. I am not strong enough to lift 200 pounds.",
+      "acceptedAnswers": [
+        "No, I am not. I am not strong enough to lift 200 pounds.",
+        "No, I'm not. That is too heavy for me."
+      ],
+      "explanation": "'Enough' follows the adjective: 'strong enough'.",
+      "tags": [
+        "too-enough",
+        "strong-enough",
+        "adjectives",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q175",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Too and Enough",
+      "subtopic": "Too with adjective position",
+      "grammarFocus": "Subject + is + too + adj + infinitive",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using TOO or ENOUGH.",
+      "prompt": "Is an airplane too difficult to fly?",
+      "answer": "Yes, it is. An airplane is too difficult to fly.",
+      "acceptedAnswers": [
+        "Yes, it is. An airplane is too difficult to fly."
+      ],
+      "explanation": "'Too' precedes the adjective: 'too difficult'.",
+      "tags": [
+        "too-enough",
+        "too-difficult",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q176",
+      "sourceId": "S15",
+      "lessonPairs": [
+        "27-28"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Too and Enough",
+      "subtopic": "Car capacity and size limitation",
+      "grammarFocus": "Subject + is not big enough / is too small",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using TOO or ENOUGH.",
+      "prompt": "Is a Ford Ka big enough for 20 people?",
+      "answer": "No, it isn't. A Ford Ka is too small for 20 people.",
+      "acceptedAnswers": [
+        "No, it isn't. A Ford Ka is too small for 20 people.",
+        "No, it isn't. A Ford Ka is not big enough for 20 people."
+      ],
+      "explanation": "A compact car cannot seat 20 people, making it 'too small' or 'not big enough'.",
+      "tags": [
+        "too-enough",
+        "big-enough",
+        "too-small",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q177",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals of Obligation",
+      "subtopic": "Must with driving safety",
+      "grammarFocus": "Subject + must be careful",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "Must you be careful when you drive a car?",
+      "answer": "Yes, you must. You must be careful when you drive a car.",
+      "acceptedAnswers": [
+        "Yes, you must. You must be careful when you drive a car.",
+        "Yes, you must."
+      ],
+      "explanation": "Questions with modal 'Must' are answered with 'Yes, you must' and keep the base verb 'be'.",
+      "tags": [
+        "must",
+        "modals",
+        "driving",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q178",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals of Obligation",
+      "subtopic": "Must have a driver's license",
+      "grammarFocus": "Must + base verb (have)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "Must you have a driver's license?",
+      "answer": "Yes, you must. You must have a driver's license.",
+      "acceptedAnswers": [
+        "Yes, you must. You must have a driver's license.",
+        "Yes, you must."
+      ],
+      "explanation": "A driver's license is a legal requirement for driving; answered with modal 'must'.",
+      "tags": [
+        "must",
+        "license",
+        "obligation",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q179",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals and Traffic Signals",
+      "subtopic": "Red light meaning",
+      "grammarFocus": "Red means that you must stop",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "What does red mean?",
+      "answer": "Red means that you must stop.",
+      "acceptedAnswers": [
+        "Red means that you must stop.",
+        "It means that you must stop."
+      ],
+      "explanation": "Traffic signal rule: red light indicates an absolute obligation to stop.",
+      "tags": [
+        "traffic-lights",
+        "must-stop",
+        "red-light",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q180",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals and Traffic Signals",
+      "subtopic": "Yellow light meaning",
+      "grammarFocus": "Yellow means that you must be careful",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "What does yellow mean?",
+      "answer": "Yellow means that you must be careful.",
+      "acceptedAnswers": [
+        "Yellow means that you must be careful.",
+        "It means that you must be careful."
+      ],
+      "explanation": "Yellow light alerts drivers of an obligation of caution before stopping.",
+      "tags": [
+        "traffic-lights",
+        "yellow-light",
+        "must-be-careful",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q181",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals and Traffic Signals",
+      "subtopic": "Green light meaning with have to",
+      "grammarFocus": "Green means that you have to go ahead",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "What does green mean?",
+      "answer": "Green means that you have to go ahead.",
+      "acceptedAnswers": [
+        "Green means that you have to go ahead.",
+        "It means that you have to go ahead."
+      ],
+      "explanation": "The textbook reading specifically states: 'Green means that you have to go ahead.'",
+      "tags": [
+        "traffic-lights",
+        "green-light",
+        "have-to",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q182",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Automotive Vocabulary",
+      "subtopic": "Purpose of steering wheel",
+      "grammarFocus": "Used to + base verb / Used for + -ing",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the steering wheel used for?",
+      "answer": "It is used to steer the car.",
+      "acceptedAnswers": [
+        "It is used to steer the car.",
+        "It is used to direct the car.",
+        "It is used for driving."
+      ],
+      "explanation": "The steering wheel controls vehicle direction ('to steer' or 'to direct').",
+      "tags": [
+        "steering-wheel",
+        "used-for",
+        "automotive",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q183",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reading Comprehension",
+      "subtopic": "Gas gauge purpose",
+      "grammarFocus": "Conjunction 'so that' + negative clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the paragraph.",
+      "prompt": "Why do you have to look at the gas gauge?",
+      "answer": "You have to look at it so that you don't run out of gas.",
+      "acceptedAnswers": [
+        "You have to look at it so that you don't run out of gas.",
+        "So that you don't run out of gas."
+      ],
+      "explanation": "The text states: 'You have to look at the gas gauge so that you don't run out of gas.'",
+      "tags": [
+        "gas-gauge",
+        "so-that",
+        "run-out-of",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q184",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reading Comprehension",
+      "subtopic": "Spare tire in the trunk",
+      "grammarFocus": "Prepositional phrase 'in case of'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the paragraph.",
+      "prompt": "What is the extra tire in the trunk used for?",
+      "answer": "It is used in case of a flat tire.",
+      "acceptedAnswers": [
+        "It is used in case of a flat tire."
+      ],
+      "explanation": "The spare tire in the trunk provides replacement when a tire is punctured.",
+      "tags": [
+        "spare-tire",
+        "flat-tire",
+        "trunk",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q185",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Pedestrian Safety",
+      "subtopic": "When to cross street",
+      "grammarFocus": "When clause + appears with the word WALK",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the paragraph.",
+      "prompt": "When must pedestrians cross the street?",
+      "answer": "They must cross only when the pedestrian light appears with the word 'WALK'.",
+      "acceptedAnswers": [
+        "They must cross only when the pedestrian light appears with the word 'WALK'.",
+        "They must cross when the pedestrian light says WALK."
+      ],
+      "explanation": "Pedestrians are required to wait for the illuminated 'WALK' sign at crosswalks.",
+      "tags": [
+        "pedestrians",
+        "cross-street",
+        "traffic-safety",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q186",
+      "sourceId": "S16",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Vocabulary Definition",
+      "subtopic": "Definition of pedestrian",
+      "grammarFocus": "Relative clause 'a person who walks'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What does the word pedestrian mean?",
+      "answer": "It means a person who walks on the street.",
+      "acceptedAnswers": [
+        "It means a person who walks on the street.",
+        "A pedestrian is a person who walks."
+      ],
+      "explanation": "A pedestrian is someone traveling on foot rather than in a vehicle.",
+      "tags": [
+        "pedestrian",
+        "definitions",
+        "vocabulary",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q187",
+      "sourceId": "S17",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Home Descriptions",
+      "subtopic": "Location of residence",
+      "grammarFocus": "My house is located in + city",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Where is your house located?",
+      "answer": "My house is located in Mexico City.",
+      "explanation": "Passive construction 'is located in' specifies geographic setting.",
+      "tags": [
+        "house",
+        "locations",
+        "passive-voice",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q188",
+      "sourceId": "S17",
+      "lessonPairs": [
+        "29-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Home Descriptions",
+      "subtopic": "Counting rooms with have/has",
+      "grammarFocus": "Subject + has + [number] + bathrooms",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How many bathrooms does your house have?",
+      "answer": "My house has two bathrooms.",
+      "explanation": "Third person singular noun 'house' takes verb 'has' and plural noun 'bathrooms'.",
+      "tags": [
+        "house",
+        "bathrooms",
+        "has",
+        "a2"
+      ]
+    },
+    {
+      "id": "BK1-Q189",
+      "sourceId": "S18",
+      "lessonPairs": [
+        "21-30"
+      ],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives vs Superlatives",
+      "subtopic": "Double comparative error correction",
+      "grammarFocus": "The busiest (not the most busiest)",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "The president is the ____ person in the world. (busy)",
+      "template": "The president is the {{1}} person in the world.",
+      "answer": "The president is the busiest person in the world.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": [
+            "busiest"
+          ]
+        }
+      ],
+      "explanation": "'Busy' forms superlative 'busiest'; never combine 'most' and '-est'.",
+      "tags": [
+        "superlatives",
+        "busiest",
+        "review",
+        "a2"
+      ]
+    }
+  ]
+}

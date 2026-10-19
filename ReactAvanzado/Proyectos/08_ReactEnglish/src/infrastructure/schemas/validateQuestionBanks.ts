@@ -67,6 +67,11 @@ export function validateQuestionBank(
   }
 
   // Convert Zod errors to validation issues
+  console.log(`[validateQuestionBank] Errores Zod en ${file}: ${result.error.issues.length}`)
+  result.error.issues.slice(0, 5).forEach((err) => {
+    console.log(`  - Path: ${err.path.join('.')} | Code: ${err.code} | Message: ${err.message}`)
+  })
+
   const issues: ValidationIssue[] = result.error.issues.map((err) => {
     const pathStr = err.path.join('.')
     let questionId: string | undefined

@@ -1,0 +1,1375 @@
+{
+  "metadata": {
+    "schemaVersion": "2.0",
+    "bookId": "BK1",
+    "title": "English Learning Content - Book I Lessons 25-30 Review",
+    "generatedAt": "2026-10-19",
+    "totalQuestions": 60,
+    "lessonPairs": [
+      {
+        "id": "25-26",
+        "label": "Lessons 25-26: Comparisons of Quantity & Indefinite Pronouns",
+        "lessons": [25, 26]
+      },
+      {
+        "id": "27-28",
+        "label": "Lessons 27-28: Comparatives, Superlatives & Equality",
+        "lessons": [27, 28]
+      },
+      {
+        "id": "29-30",
+        "label": "Lessons 29-30: Modal Auxiliaries of Obligation (Must / Have to)",
+        "lessons": [29, 30]
+      },
+      {
+        "id": "21-30-REV",
+        "label": "Review Lessons 21-30",
+        "lessons": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+      }
+    ],
+    "sources": [
+      {
+        "id": "S11",
+        "name": "Think in English Speak in English - Lesson 26: Comparisons (More than, Fewer than)"
+      },
+      {
+        "id": "S12",
+        "name": "Think in English Speak in English - Lesson 27: Comparisons (Less than)"
+      },
+      {
+        "id": "S13",
+        "name": "Worksheet Book I Lessons 25-26: Indefinite Pronouns and Some/Any/No"
+      },
+      {
+        "id": "S14",
+        "name": "Think in English Speak in English - Lesson 27-28: Comparatives and Superlatives"
+      },
+      {
+        "id": "S15",
+        "name": "Worksheet Book I Lessons 27-28: Equality, Superlatives, Reflexives & Too/Enough"
+      },
+      {
+        "id": "S16",
+        "name": "Think in English Speak in English - Lessons 29-30: Must and Have to"
+      },
+      {
+        "id": "S17",
+        "name": "Worksheet Book I Lessons 29-30: Traffic Rules, House Description & Vocabulary"
+      },
+      {
+        "id": "S18",
+        "name": "Review Worksheet Book I Lessons 21-30 (Comprehensive Review)"
+      }
+    ]
+  },
+  "questions": [
+    {
+      "id": "BK1-Q070",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "More than with countable nouns",
+      "grammarFocus": "Subject + has more + [plural noun] + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does California have more people than Delaware?",
+      "answer": "Yes, it does. California has more people than Delaware.",
+      "acceptedAnswers": [
+        "Yes, it does. California has more people than Delaware.",
+        "Yes, it does."
+      ],
+      "explanation": "Affirmative answer uses auxiliary 'does' followed by the complete comparative clause 'has more people than'.",
+      "tags": ["comparisons", "more-than", "countable-nouns", "a2"]
+    },
+    {
+      "id": "BK1-Q071",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Negative response with fewer than",
+      "grammarFocus": "Negative auxiliary or 'has fewer ... than'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does Delaware have more people than California?",
+      "answer": "No, it doesn't. Delaware has fewer people than California.",
+      "acceptedAnswers": [
+        "No, it doesn't. Delaware has fewer people than California.",
+        "No, it doesn't. California has more people than Delaware.",
+        "No, it doesn't. Delaware doesn't have more people than California."
+      ],
+      "explanation": "Delaware has less population, requiring 'fewer people than' for plural count nouns or stating that California has more.",
+      "tags": ["comparisons", "fewer-than", "countable-nouns", "a2"]
+    },
+    {
+      "id": "BK1-Q072",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Which state questions",
+      "grammarFocus": "Subject replacement in Which questions",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Which state has more people than Delaware?",
+      "answer": "California has more people than Delaware.",
+      "acceptedAnswers": [
+        "California has more people than Delaware."
+      ],
+      "explanation": "'California' directly replaces 'Which state' as the subject of the sentence.",
+      "tags": ["comparisons", "which-questions", "more-than", "a2"]
+    },
+    {
+      "id": "BK1-Q073",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "More than with objects",
+      "grammarFocus": "A library has more + [plural noun] + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does a library have more books than a bookcase?",
+      "answer": "Yes, it does. A library has more books than a bookcase.",
+      "acceptedAnswers": [
+        "Yes, it does. A library has more books than a bookcase."
+      ],
+      "explanation": "Affirmative answer confirming that a library holds more books than an individual bookcase.",
+      "tags": ["comparisons", "more-than", "books", "a2"]
+    },
+    {
+      "id": "BK1-Q074",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "There are more than",
+      "grammarFocus": "Are there more + plural noun + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Are there more accidents in the country than in the city?",
+      "answer": "No, there aren't. There are more accidents in the city than in the country.",
+      "acceptedAnswers": [
+        "No, there aren't. There are more accidents in the city than in the country.",
+        "No, there aren't. There are more accidents in the city."
+      ],
+      "explanation": "Negative existential response using 'No, there aren't' followed by correction 'There are more accidents in the city'.",
+      "tags": ["there-are", "accidents", "comparisons", "a2"]
+    },
+    {
+      "id": "BK1-Q075",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Nature comparisons with trees",
+      "grammarFocus": "Does a garden have more + plural noun + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Does a garden have more trees than a forest?",
+      "answer": "No, it doesn't. A forest has more trees than a garden.",
+      "acceptedAnswers": [
+        "No, it doesn't. A forest has more trees than a garden.",
+        "No, it doesn't. A garden has fewer trees than a forest."
+      ],
+      "explanation": "A forest contains significantly more trees than a domestic garden.",
+      "tags": ["comparisons", "forest", "garden", "a2"]
+    },
+    {
+      "id": "BK1-Q076",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Fewer than formulation",
+      "grammarFocus": "Question transformation with 'Does ... have fewer ... than'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Make a question using FEWER THAN from the given statement: 'An apartment has fewer rooms than a house.'",
+      "prompt": "An apartment has fewer rooms than a house.",
+      "answer": "Does an apartment have fewer rooms than a house?",
+      "acceptedAnswers": [
+        "Does an apartment have fewer rooms than a house?"
+      ],
+      "explanation": "Third person singular question takes auxiliary 'Does' and keeps base verb 'have'.",
+      "tags": ["fewer-than", "question-formation", "a2"]
+    },
+    {
+      "id": "BK1-Q077",
+      "sourceId": "S11",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Fewer than formulation with irregular plural nouns",
+      "grammarFocus": "Does a modern family have fewer children than an old-fashioned family?",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Make a question using FEWER THAN from the given statement: 'A modern family has fewer children than an old-fashioned family.'",
+      "prompt": "A modern family has fewer children than an old-fashioned family.",
+      "answer": "Does a modern family have fewer children than an old-fashioned family?",
+      "acceptedAnswers": [
+        "Does a modern family have fewer children than an old-fashioned family?"
+      ],
+      "explanation": "'Children' is an irregular plural countable noun, requiring 'fewer' rather than 'less'.",
+      "tags": ["fewer-than", "children", "question-formation", "a2"]
+    },
+    {
+      "id": "BK1-Q078",
+      "sourceId": "S12",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Less than with uncountable nouns (water)",
+      "grammarFocus": "Is there less + [uncountable noun] + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Make a question using LESS THAN from the given statement: 'There is less water in a creek than in a river.'",
+      "prompt": "There is less water in a creek than in a river.",
+      "answer": "Is there less water in a creek than in a river?",
+      "acceptedAnswers": [
+        "Is there less water in a creek than in a river?"
+      ],
+      "explanation": "'Water' is uncountable, so 'less than' is used with singular inversion 'Is there'.",
+      "tags": ["less-than", "uncountable-nouns", "water", "a2"]
+    },
+    {
+      "id": "BK1-Q079",
+      "sourceId": "S12",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Quantity",
+      "subtopic": "Less than with uncountable nouns (pollution)",
+      "grammarFocus": "There is less pollution in the mountains than in the cities",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Is there less pollution in the mountains than in the cities?",
+      "answer": "Yes, there is. There is less pollution in the mountains than in the cities.",
+      "acceptedAnswers": [
+        "Yes, there is. There is less pollution in the mountains than in the cities.",
+        "Yes, there is."
+      ],
+      "explanation": "Confirms with 'Yes, there is' followed by the declarative comparison using 'less pollution than'.",
+      "tags": ["less-than", "pollution", "mountains", "a2"]
+    },
+    {
+      "id": "BK1-Q080",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Negative answers with nothing",
+      "grammarFocus": "There is nothing in + noun phrase",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Is there anything in that bag?",
+      "answer": "No, there isn't. There is nothing in that bag.",
+      "acceptedAnswers": [
+        "No, there isn't. There is nothing in that bag.",
+        "No, there isn't anything in that bag."
+      ],
+      "explanation": "Negative response pairs 'No, there isn't' with 'There is nothing' (affirmative verb + negative pronoun).",
+      "tags": ["anything", "nothing", "indefinite-pronouns", "a2"]
+    },
+    {
+      "id": "BK1-Q081",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Quantifiers",
+      "subtopic": "Some with uncountable nouns in affirmative clauses",
+      "grammarFocus": "There is some + uncountable noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Is there any water in the glass?",
+      "answer": "Yes, there is. There is some water in the glass.",
+      "acceptedAnswers": [
+        "Yes, there is. There is some water in the glass."
+      ],
+      "explanation": "'Any' in questions becomes 'some' in affirmative declarative statements.",
+      "tags": ["some-vs-any", "water", "there-is", "a2"]
+    },
+    {
+      "id": "BK1-Q082",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Somebody on top of roof",
+      "grammarFocus": "There is somebody + prepositional phrase",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Is there anybody on top of the roof?",
+      "answer": "Yes, there is. There is somebody on top of the roof.",
+      "acceptedAnswers": [
+        "Yes, there is. There is somebody on top of the roof."
+      ],
+      "explanation": "'Anybody' in questions changes to compound pronoun 'somebody' in affirmative replies.",
+      "tags": ["somebody", "anybody", "roof", "a2"]
+    },
+    {
+      "id": "BK1-Q083",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Quantifiers and Negation",
+      "subtopic": "No vs Nothing before a noun",
+      "grammarFocus": "There is no + noun vs There isn't any + noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Is there any honey in the jar?",
+      "answer": "No, there isn't. There is no honey in the jar.",
+      "acceptedAnswers": [
+        "No, there isn't. There is no honey in the jar.",
+        "No, there isn't any honey in the jar."
+      ],
+      "explanation": "'Nothing' cannot modify a noun; use determiner 'no' ('no honey') or negative auxiliary with 'any' ('isn't any honey').",
+      "tags": ["no-vs-any", "honey", "uncountable", "a2"]
+    },
+    {
+      "id": "BK1-Q084",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Some before plural count nouns",
+      "grammarFocus": "There are some + plural noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Are there any students in the classroom?",
+      "answer": "Yes, there are. There are some students in the classroom.",
+      "acceptedAnswers": [
+        "Yes, there are. There are some students in the classroom."
+      ],
+      "explanation": "Use 'some students', not 'somebody students'. 'Somebody' is an independent pronoun.",
+      "tags": ["some", "students", "plural-nouns", "a2"]
+    },
+    {
+      "id": "BK1-Q085",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Quantifiers",
+      "subtopic": "Some vs Something with plural nouns",
+      "grammarFocus": "There are some new styles",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Are there any new styles in the store?",
+      "answer": "Yes, there are. There are some new styles in the store.",
+      "acceptedAnswers": [
+        "Yes, there are. There are some new styles in the store."
+      ],
+      "explanation": "'Some' quantifies plural noun 'new styles'. 'Something new styles' is ungrammatical.",
+      "tags": ["some", "styles", "store", "a2"]
+    },
+    {
+      "id": "BK1-Q086",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Quantifiers in Negative Sentences",
+      "subtopic": "Aren't any with plural count nouns",
+      "grammarFocus": "There aren't any + plural noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Are there any shoes in the store?",
+      "answer": "No, there aren't. There aren't any shoes in the store.",
+      "acceptedAnswers": [
+        "No, there aren't. There aren't any shoes in the store.",
+        "No, there are no shoes in the store."
+      ],
+      "explanation": "Negative plural responses use 'There aren't any [nouns]' or 'There are no [nouns]'.",
+      "tags": ["any", "shoes", "negation", "a2"]
+    },
+    {
+      "id": "BK1-Q087",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Simple Present Negation",
+      "subtopic": "Doesn't feel any vs Feels no",
+      "grammarFocus": "Negative verb + any + abstract noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question in the negative. Give complete answers.",
+      "prompt": "Does he feel any hate in the world?",
+      "answer": "No, he doesn't. He doesn't feel any hate in the world.",
+      "acceptedAnswers": [
+        "No, he doesn't. He doesn't feel any hate in the world.",
+        "No, he doesn't. He feels no hate in the world."
+      ],
+      "explanation": "Simple present negation requires auxiliary 'doesn't' + base verb 'feel' + 'any hate'.",
+      "tags": ["simple-present", "hate", "any", "a2"]
+    },
+    {
+      "id": "BK1-Q088",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Simple Present Affirmative",
+      "subtopic": "Third person -s and some",
+      "grammarFocus": "Subject + verb-s + some + noun",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Does the car produce any pollution in that city?",
+      "answer": "Yes, it does. The car produces some pollution in that city.",
+      "acceptedAnswers": [
+        "Yes, it does. The car produces some pollution in that city."
+      ],
+      "explanation": "'The car' is third person singular, requiring inflection 'produces' and quantifier 'some' in affirmative clauses.",
+      "tags": ["third-person-s", "some", "pollution", "a2"]
+    },
+    {
+      "id": "BK1-Q089",
+      "sourceId": "S13",
+      "lessonPairs": ["25-26"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Indefinite Pronouns",
+      "subtopic": "Somebody in affirmative clauses with third person singular",
+      "grammarFocus": "Subject + verb-s + somebody",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question affirmatively. Give complete answers.",
+      "prompt": "Does she help anybody on Christmas?",
+      "answer": "Yes, she does. She helps somebody on Christmas.",
+      "acceptedAnswers": [
+        "Yes, she does. She helps somebody on Christmas.",
+        "Yes, she does. She helps someone on Christmas."
+      ],
+      "explanation": "Affirmative statements replace interrogative 'anybody' with 'somebody' or 'someone' and conjugate 'helps'.",
+      "tags": ["somebody", "anybody", "christmas", "a2"]
+    },
+    {
+      "id": "BK1-Q090",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Comparative of short adjectives (-er)",
+      "grammarFocus": "Subject + is + adj-er + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences using comparative form: 'Mary's handwriting is clear. Joe's handwriting is very clear.'",
+      "prompt": "Mary's handwriting is clear. Joe's handwriting is very clear.",
+      "answer": "Joe's handwriting is clearer than Mary's handwriting.",
+      "acceptedAnswers": [
+        "Joe's handwriting is clearer than Mary's handwriting.",
+        "Joe's handwriting is clearer than Mary's."
+      ],
+      "explanation": "'Clear' is a single-syllable adjective, taking suffix '-er' to form 'clearer than'.",
+      "tags": ["comparatives", "-er", "clear", "a2"]
+    },
+    {
+      "id": "BK1-Q091",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Comparative of fast adverb/adjective",
+      "grammarFocus": "Subject + runs + faster + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'A motorcycle runs fast. A car runs very fast.'",
+      "prompt": "A motorcycle runs fast. A car runs very fast.",
+      "answer": "A car runs faster than a motorcycle.",
+      "acceptedAnswers": [
+        "A car runs faster than a motorcycle."
+      ],
+      "explanation": "'Fast' is a one-syllable word forming comparative 'faster than'.",
+      "tags": ["comparatives", "fast", "vehicles", "a2"]
+    },
+    {
+      "id": "BK1-Q092",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives",
+      "subtopic": "Long adjectives (more than 2 syllables)",
+      "grammarFocus": "More + adjective + than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'Daniel is incredible. Charlie is very incredible.'",
+      "prompt": "Daniel is incredible. Charlie is very incredible.",
+      "answer": "Charlie is more incredible than Daniel.",
+      "acceptedAnswers": [
+        "Charlie is more incredible than Daniel."
+      ],
+      "explanation": "'Incredible' has four syllables, requiring 'more incredible than' rather than an '-er' suffix.",
+      "tags": ["comparatives", "more-than", "long-adjectives", "a2"]
+    },
+    {
+      "id": "BK1-Q093",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives",
+      "subtopic": "Two-syllable adjectives ending in -y",
+      "grammarFocus": "Y changes to i + er (busier than)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'Mr. Baxter is busy. Mr. Peyton is very busy.'",
+      "prompt": "Mr. Baxter is busy. Mr. Peyton is very busy.",
+      "answer": "Mr. Peyton is busier than Mr. Baxter.",
+      "acceptedAnswers": [
+        "Mr. Peyton is busier than Mr. Baxter."
+      ],
+      "explanation": "Two-syllable adjectives ending in consonant + y change 'y' to 'i' and add '-er' ('busier than').",
+      "tags": ["comparatives", "spelling-rules", "busier", "a2"]
+    },
+    {
+      "id": "BK1-Q094",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Adjective heavy (y to i)",
+      "grammarFocus": "Heavier than",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Compare the sentences: 'A car is heavy. An airplane is very heavy.'",
+      "prompt": "A car is heavy. An airplane is very heavy.",
+      "answer": "An airplane is heavier than a car.",
+      "acceptedAnswers": [
+        "An airplane is heavier than a car."
+      ],
+      "explanation": "'Heavy' changes 'y' to 'i' plus '-er', forming 'heavier than'.",
+      "tags": ["comparatives", "heavier", "a2"]
+    },
+    {
+      "id": "BK1-Q095",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Long adjectives in superlative form",
+      "grammarFocus": "The most + adjective",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "English is the ____ language of all. (important)",
+      "template": "English is the {{1}} language of all.",
+      "answer": "English is the most important language of all.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": ["most important"]
+        }
+      ],
+      "explanation": "'Important' is a three-syllable adjective; its superlative requires 'most important' preceded by 'the'.",
+      "tags": ["superlatives", "most-important", "a2"]
+    },
+    {
+      "id": "BK1-Q096",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Two-syllable adjectives ending in -y",
+      "grammarFocus": "The + adj(-iest)",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "Kathy is the ____ girl in her class. (pretty)",
+      "template": "Kathy is the {{1}} girl in her class.",
+      "answer": "Kathy is the prettiest girl in her class.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": ["prettiest"]
+        }
+      ],
+      "explanation": "'Pretty' ends in consonant + y, forming superlative 'prettiest'.",
+      "tags": ["superlatives", "prettiest", "a2"]
+    },
+    {
+      "id": "BK1-Q097",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Superlatives",
+      "subtopic": "Consonant-vowel-consonant doubling",
+      "grammarFocus": "The biggest",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "Alaska is the ____ state in the U.S.A. (big)",
+      "template": "Alaska is the {{1}} state in the U.S.A.",
+      "answer": "Alaska is the biggest state in the U.S.A.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": ["biggest"]
+        }
+      ],
+      "explanation": "'Big' follows the CVC pattern, doubling the final consonant 'g' before '-est' ('biggest').",
+      "tags": ["superlatives", "biggest", "a2"]
+    },
+    {
+      "id": "BK1-Q098",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Long adjectives (comfortable)",
+      "grammarFocus": "The most comfortable",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "The den is the ____ room in the house. (comfortable)",
+      "template": "The den is the {{1}} room in the house.",
+      "answer": "The den is the most comfortable room in the house.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": ["most comfortable"]
+        }
+      ],
+      "explanation": "'Comfortable' has four syllables, forming superlative with 'most comfortable'.",
+      "tags": ["superlatives", "comfortable", "a2"]
+    },
+    {
+      "id": "BK1-Q099",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparisons of Equality",
+      "subtopic": "Adverbs of manner with as ... as",
+      "grammarFocus": "As + adverb + as",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Combine the sentences using AS ... AS: 'Mr. Frazier speaks clearly and Mr. Seinfeld does, too.'",
+      "prompt": "Mr. Frazier speaks clearly and Mr. Seinfeld does, too.",
+      "answer": "Mr. Frazier speaks as clearly as Mr. Seinfeld.",
+      "acceptedAnswers": [
+        "Mr. Frazier speaks as clearly as Mr. Seinfeld."
+      ],
+      "explanation": "Expresses identical degree using 'as + adverb (clearly) + as'.",
+      "tags": ["equality", "as-as", "adverbs", "a2"]
+    },
+    {
+      "id": "BK1-Q100",
+      "sourceId": "S14",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparisons of Equality",
+      "subtopic": "Countable nouns with as many ... as",
+      "grammarFocus": "As many + plural count noun + as",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Combine the sentences using AS ... AS: 'Mexico City has many skyscrapers. New York has many skyscrapers, too.'",
+      "prompt": "Mexico City has many skyscrapers. New York has many skyscrapers, too.",
+      "answer": "Mexico City has as many skyscrapers as New York.",
+      "acceptedAnswers": [
+        "Mexico City has as many skyscrapers as New York."
+      ],
+      "explanation": "'Skyscrapers' is a plural count noun, requiring quantifier structure 'as many ... as'.",
+      "tags": ["equality", "as-many-as", "skyscrapers", "a2"]
+    },
+    {
+      "id": "BK1-Q101",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Negative response with faster than",
+      "grammarFocus": "No, it isn't + A jet is faster than a car",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is a car faster than a jet?",
+      "answer": "No, it isn't. A jet is faster than a car.",
+      "acceptedAnswers": [
+        "No, it isn't. A jet is faster than a car.",
+        "No, it isn't. A car is not faster than a jet."
+      ],
+      "explanation": "A jet travels at much higher speeds than an automobile.",
+      "tags": ["comparatives", "faster", "vehicles", "a2"]
+    },
+    {
+      "id": "BK1-Q102",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Geography and climate comparisons",
+      "grammarFocus": "Subject + is colder than + object",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is Canada colder than Cancun?",
+      "answer": "Yes, it is. Canada is colder than Cancun.",
+      "acceptedAnswers": [
+        "Yes, it is. Canada is colder than Cancun."
+      ],
+      "explanation": "'Cold' is a one-syllable adjective taking '-er' ('colder than').",
+      "tags": ["comparatives", "colder", "geography", "a2"]
+    },
+    {
+      "id": "BK1-Q103",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives",
+      "subtopic": "Singular organism vs insect",
+      "grammarFocus": "Subject + is smaller than an ant",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "What is smaller than an ant?",
+      "answer": "A bacterium is smaller than an ant.",
+      "acceptedAnswers": [
+        "A bacterium is smaller than an ant.",
+        "Bacteria are smaller than ants.",
+        "A flea is smaller than an ant."
+      ],
+      "explanation": "'A bacterium' (singular) is microscopic and significantly smaller than an ant.",
+      "tags": ["comparatives", "smaller", "vocabulary", "a2"]
+    },
+    {
+      "id": "BK1-Q104",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "State land area comparisons",
+      "grammarFocus": "Chihuahua is bigger than Sonora",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Which state is bigger than Sonora?",
+      "answer": "Chihuahua is bigger than Sonora.",
+      "acceptedAnswers": [
+        "Chihuahua is bigger than Sonora."
+      ],
+      "explanation": "Chihuahua is the largest state by land area in Mexico, larger than Sonora.",
+      "tags": ["comparatives", "bigger", "geography", "a2"]
+    },
+    {
+      "id": "BK1-Q105",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Irregular Comparatives",
+      "subtopic": "Good -> Better than",
+      "grammarFocus": "Better than with beverages",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is coffee better than orange juice?",
+      "answer": "No, it isn't. Orange juice is better than coffee.",
+      "acceptedAnswers": [
+        "No, it isn't. Orange juice is better than coffee.",
+        "Yes, it is. Coffee is better than orange juice."
+      ],
+      "explanation": "Uses irregular comparative 'better than' without articles before general drinks.",
+      "tags": ["comparatives", "better-than", "irregular", "a2"]
+    },
+    {
+      "id": "BK1-Q106",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Irregular Comparatives",
+      "subtopic": "Bad -> Worse than",
+      "grammarFocus": "Worse than with plural subjects",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Are cats worse than dogs as pets?",
+      "answer": "No, they aren't. Cats are not worse than dogs as pets.",
+      "acceptedAnswers": [
+        "No, they aren't. Cats are not worse than dogs as pets.",
+        "Yes, they are. Cats are worse than dogs as pets.",
+        "No, they aren't. Cats are better than dogs as pets."
+      ],
+      "explanation": "'Worse' is the irregular comparative of 'bad'. No definite article is used for general plural species.",
+      "tags": ["comparatives", "worse-than", "irregular", "a2"]
+    },
+    {
+      "id": "BK1-Q107",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Comparatives",
+      "subtopic": "Easy -> Easier with languages",
+      "grammarFocus": "English is easier than French",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using comparatives.",
+      "prompt": "Is English easier than French?",
+      "answer": "Yes, it is. English is easier than French.",
+      "acceptedAnswers": [
+        "Yes, it is. English is easier than French.",
+        "No, it isn't. French is easier than English."
+      ],
+      "explanation": "Languages do not take articles ('English', not 'the English'). 'Easy' changes to 'easier than'.",
+      "tags": ["comparatives", "easier", "languages", "a2"]
+    },
+    {
+      "id": "BK1-Q108",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Superlatives",
+      "subtopic": "Animal kingdom superlatives",
+      "grammarFocus": "The blue whale is the biggest animal",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using superlatives.",
+      "prompt": "Which is the biggest animal on the planet?",
+      "answer": "The blue whale is the biggest animal on the planet.",
+      "acceptedAnswers": [
+        "The blue whale is the biggest animal on the planet.",
+        "The blue whale is the biggest animal."
+      ],
+      "explanation": "The blue whale holds the record as the largest animal on Earth; uses 'the biggest'.",
+      "tags": ["superlatives", "biggest", "animals", "a2"]
+    },
+    {
+      "id": "BK1-Q109",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Superlatives",
+      "subtopic": "Slowest animal",
+      "grammarFocus": "The sloth is the slowest animal",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using superlatives.",
+      "prompt": "Is the turtle the slowest animal?",
+      "answer": "No, it isn't. The sloth is the slowest animal.",
+      "acceptedAnswers": [
+        "No, it isn't. The sloth is the slowest animal.",
+        "No, it isn't. The turtle is not the slowest animal."
+      ],
+      "explanation": "The sloth moves slower than the turtle; 'slow' forms 'the slowest'.",
+      "tags": ["superlatives", "slowest", "animals", "a2"]
+    },
+    {
+      "id": "BK1-Q110",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Mixed Comparative & Superlative Sentences",
+      "subtopic": "Three-way comparison pattern",
+      "grammarFocus": "[X] is [comparative] than [Y], but [Z] is the [superlative]",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Use comparative and superlative for: 'Basketball, football, baseball' with adjective 'interesting'.",
+      "prompt": "Basketball, football, baseball",
+      "answer": "Basketball is more interesting than football, but baseball is the most interesting.",
+      "acceptedAnswers": [
+        "Basketball is more interesting than football, but baseball is the most interesting."
+      ],
+      "explanation": "Combines comparative 'more interesting than' and superlative 'the most interesting' without definite articles before sports.",
+      "tags": ["comparatives", "superlatives", "sports", "a2"]
+    },
+    {
+      "id": "BK1-Q111",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Hard",
+      "topic": "Mixed Comparative & Superlative Sentences",
+      "subtopic": "Irregular good -> better -> best",
+      "grammarFocus": "Brand comparison with better than and the best",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Use comparative and superlative for: 'Pizza Hut, Domino's, Pizza del Rey' with adjective 'good'.",
+      "prompt": "Pizza Hut, Domino's, Pizza del Rey",
+      "answer": "Pizza Hut is better than Domino's, but Pizza del Rey is the best.",
+      "acceptedAnswers": [
+        "Pizza Hut is better than Domino's, but Pizza del Rey is the best."
+      ],
+      "explanation": "Applies irregular forms 'better than' and 'the best' in a single compound sentence.",
+      "tags": ["comparatives", "superlatives", "irregular-adjectives", "a2"]
+    },
+    {
+      "id": "BK1-Q112",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reflexive Pronouns",
+      "subtopic": "By himself meaning alone",
+      "grammarFocus": "Subject + likes to be + by himself",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using reflexive pronouns.",
+      "prompt": "Does your father like to be by himself sometimes?",
+      "answer": "Yes, he does. He likes to be by himself sometimes.",
+      "acceptedAnswers": [
+        "Yes, he does. He likes to be by himself sometimes.",
+        "No, he doesn't. He doesn't like to be by himself."
+      ],
+      "explanation": "'By himself' means alone for a masculine third-person singular subject.",
+      "tags": ["reflexive-pronouns", "himself", "by-himself", "a2"]
+    },
+    {
+      "id": "BK1-Q113",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reflexive Pronouns",
+      "subtopic": "By herself with feminine subject",
+      "grammarFocus": "Subject + likes to cook + by herself",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using reflexive pronouns.",
+      "prompt": "Does your mother like to cook by herself?",
+      "answer": "Yes, she does. She likes to cook by herself.",
+      "acceptedAnswers": [
+        "Yes, she does. She likes to cook by herself."
+      ],
+      "explanation": "'Herself' corresponds to feminine third person singular subject 'she'.",
+      "tags": ["reflexive-pronouns", "herself", "cooking", "a2"]
+    },
+    {
+      "id": "BK1-Q114",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Too and Enough",
+      "subtopic": "Enough with adjective position",
+      "grammarFocus": "Subject + verb to be + not + adj + enough",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using TOO or ENOUGH.",
+      "prompt": "Are you strong enough to lift 200 pounds?",
+      "answer": "No, I am not. I am not strong enough to lift 200 pounds.",
+      "acceptedAnswers": [
+        "No, I am not. I am not strong enough to lift 200 pounds.",
+        "No, I'm not. That is too heavy for me."
+      ],
+      "explanation": "'Enough' follows the adjective: 'strong enough'.",
+      "tags": ["too-enough", "strong-enough", "adjectives", "a2"]
+    },
+    {
+      "id": "BK1-Q115",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Too and Enough",
+      "subtopic": "Too with adjective position",
+      "grammarFocus": "Subject + is + too + adj + infinitive",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using TOO or ENOUGH.",
+      "prompt": "Is an airplane too difficult to fly?",
+      "answer": "Yes, it is. An airplane is too difficult to fly.",
+      "acceptedAnswers": [
+        "Yes, it is. An airplane is too difficult to fly."
+      ],
+      "explanation": "'Too' precedes the adjective: 'too difficult'.",
+      "tags": ["too-enough", "too-difficult", "a2"]
+    },
+    {
+      "id": "BK1-Q116",
+      "sourceId": "S15",
+      "lessonPairs": ["27-28"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Too and Enough",
+      "subtopic": "Car capacity and size limitation",
+      "grammarFocus": "Subject + is not big enough / is too small",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question using TOO or ENOUGH.",
+      "prompt": "Is a Ford Ka big enough for 20 people?",
+      "answer": "No, it isn't. A Ford Ka is too small for 20 people.",
+      "acceptedAnswers": [
+        "No, it isn't. A Ford Ka is too small for 20 people.",
+        "No, it isn't. A Ford Ka is not big enough for 20 people."
+      ],
+      "explanation": "A compact car cannot seat 20 people, making it 'too small' or 'not big enough'.",
+      "tags": ["too-enough", "big-enough", "too-small", "a2"]
+    },
+    {
+      "id": "BK1-Q117",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals of Obligation",
+      "subtopic": "Must with driving safety",
+      "grammarFocus": "Subject + must be careful",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "Must you be careful when you drive a car?",
+      "answer": "Yes, you must. You must be careful when you drive a car.",
+      "acceptedAnswers": [
+        "Yes, you must. You must be careful when you drive a car.",
+        "Yes, you must."
+      ],
+      "explanation": "Questions with modal 'Must' are answered with 'Yes, you must' and keep the base verb 'be'.",
+      "tags": ["must", "modals", "driving", "a2"]
+    },
+    {
+      "id": "BK1-Q118",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals of Obligation",
+      "subtopic": "Must have a driver's license",
+      "grammarFocus": "Must + base verb (have)",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "Must you have a driver's license?",
+      "answer": "Yes, you must. You must have a driver's license.",
+      "acceptedAnswers": [
+        "Yes, you must. You must have a driver's license.",
+        "Yes, you must."
+      ],
+      "explanation": "A driver's license is a legal requirement for driving; answered with modal 'must'.",
+      "tags": ["must", "license", "obligation", "a2"]
+    },
+    {
+      "id": "BK1-Q119",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals and Traffic Signals",
+      "subtopic": "Red light meaning",
+      "grammarFocus": "Red means that you must stop",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "What does red mean?",
+      "answer": "Red means that you must stop.",
+      "acceptedAnswers": [
+        "Red means that you must stop.",
+        "It means that you must stop."
+      ],
+      "explanation": "Traffic signal rule: red light indicates an absolute obligation to stop.",
+      "tags": ["traffic-lights", "must-stop", "red-light", "a2"]
+    },
+    {
+      "id": "BK1-Q120",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals and Traffic Signals",
+      "subtopic": "Yellow light meaning",
+      "grammarFocus": "Yellow means that you must be careful",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "What does yellow mean?",
+      "answer": "Yellow means that you must be careful.",
+      "acceptedAnswers": [
+        "Yellow means that you must be careful.",
+        "It means that you must be careful."
+      ],
+      "explanation": "Yellow light alerts drivers of an obligation of caution before stopping.",
+      "tags": ["traffic-lights", "yellow-light", "must-be-careful", "a2"]
+    },
+    {
+      "id": "BK1-Q121",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Modals and Traffic Signals",
+      "subtopic": "Green light meaning with have to",
+      "grammarFocus": "Green means that you have to go ahead",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the reading.",
+      "prompt": "What does green mean?",
+      "answer": "Green means that you have to go ahead.",
+      "acceptedAnswers": [
+        "Green means that you have to go ahead.",
+        "It means that you have to go ahead."
+      ],
+      "explanation": "The textbook reading specifically states: 'Green means that you have to go ahead.'",
+      "tags": ["traffic-lights", "green-light", "have-to", "a2"]
+    },
+    {
+      "id": "BK1-Q122",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Automotive Vocabulary",
+      "subtopic": "Purpose of steering wheel",
+      "grammarFocus": "Used to + base verb / Used for + -ing",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What is the steering wheel used for?",
+      "answer": "It is used to steer the car.",
+      "acceptedAnswers": [
+        "It is used to steer the car.",
+        "It is used to direct the car.",
+        "It is used for driving."
+      ],
+      "explanation": "The steering wheel controls vehicle direction ('to steer' or 'to direct').",
+      "tags": ["steering-wheel", "used-for", "automotive", "a2"]
+    },
+    {
+      "id": "BK1-Q123",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reading Comprehension",
+      "subtopic": "Gas gauge purpose",
+      "grammarFocus": "Conjunction 'so that' + negative clause",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the paragraph.",
+      "prompt": "Why do you have to look at the gas gauge?",
+      "answer": "You have to look at it so that you don't run out of gas.",
+      "acceptedAnswers": [
+        "You have to look at it so that you don't run out of gas.",
+        "So that you don't run out of gas."
+      ],
+      "explanation": "The text states: 'You have to look at the gas gauge so that you don't run out of gas.'",
+      "tags": ["gas-gauge", "so-that", "run-out-of", "a2"]
+    },
+    {
+      "id": "BK1-Q124",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Reading Comprehension",
+      "subtopic": "Spare tire in the trunk",
+      "grammarFocus": "Prepositional phrase 'in case of'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the paragraph.",
+      "prompt": "What is the extra tire in the trunk used for?",
+      "answer": "It is used in case of a flat tire.",
+      "acceptedAnswers": [
+        "It is used in case of a flat tire."
+      ],
+      "explanation": "The spare tire in the trunk provides replacement when a tire is punctured.",
+      "tags": ["spare-tire", "flat-tire", "trunk", "a2"]
+    },
+    {
+      "id": "BK1-Q125",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Pedestrian Safety",
+      "subtopic": "When to cross street",
+      "grammarFocus": "When clause + appears with the word WALK",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question according to the paragraph.",
+      "prompt": "When must pedestrians cross the street?",
+      "answer": "They must cross only when the pedestrian light appears with the word 'WALK'.",
+      "acceptedAnswers": [
+        "They must cross only when the pedestrian light appears with the word 'WALK'.",
+        "They must cross when the pedestrian light says WALK."
+      ],
+      "explanation": "Pedestrians are required to wait for the illuminated 'WALK' sign at crosswalks.",
+      "tags": ["pedestrians", "cross-street", "traffic-safety", "a2"]
+    },
+    {
+      "id": "BK1-Q126",
+      "sourceId": "S16",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Vocabulary Definition",
+      "subtopic": "Definition of pedestrian",
+      "grammarFocus": "Relative clause 'a person who walks'",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "exact",
+      "instruction": "Answer the question.",
+      "prompt": "What does the word pedestrian mean?",
+      "answer": "It means a person who walks on the street.",
+      "acceptedAnswers": [
+        "It means a person who walks on the street.",
+        "A pedestrian is a person who walks."
+      ],
+      "explanation": "A pedestrian is someone traveling on foot rather than in a vehicle.",
+      "tags": ["pedestrian", "definitions", "vocabulary", "a2"]
+    },
+    {
+      "id": "BK1-Q127",
+      "sourceId": "S17",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Home Descriptions",
+      "subtopic": "Location of residence",
+      "grammarFocus": "My house is located in + city",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "Where is your house located?",
+      "answer": "My house is located in Mexico City.",
+      "explanation": "Passive construction 'is located in' specifies geographic setting.",
+      "tags": ["house", "locations", "passive-voice", "a2"]
+    },
+    {
+      "id": "BK1-Q128",
+      "sourceId": "S17",
+      "lessonPairs": ["29-30"],
+      "englishLevel": "A2",
+      "difficulty": "Easy",
+      "topic": "Home Descriptions",
+      "subtopic": "Counting rooms with have/has",
+      "grammarFocus": "Subject + has + [number] + bathrooms",
+      "skillType": "Writing",
+      "questionType": "open",
+      "gradingMode": "selfCheck",
+      "instruction": "Answer the question. Give complete answers.",
+      "prompt": "How many bathrooms does your house have?",
+      "answer": "My house has two bathrooms.",
+      "explanation": "Third person singular noun 'house' takes verb 'has' and plural noun 'bathrooms'.",
+      "tags": ["house", "bathrooms", "has", "a2"]
+    },
+    {
+      "id": "BK1-Q129",
+      "sourceId": "S18",
+      "lessonPairs": ["21-30-REV"],
+      "englishLevel": "A2",
+      "difficulty": "Medium",
+      "topic": "Comparatives vs Superlatives",
+      "subtopic": "Double comparative error correction",
+      "grammarFocus": "The busiest (not the most busiest)",
+      "skillType": "Grammar",
+      "questionType": "fill_blank",
+      "gradingMode": "blanks",
+      "instruction": "Complete the sentence with the superlative form of the adjective in parentheses.",
+      "prompt": "The president is the ____ person in the world. (busy)",
+      "template": "The president is the {{1}} person in the world.",
+      "answer": "The president is the busiest person in the world.",
+      "blanks": [
+        {
+          "id": 1,
+          "acceptedAnswers": ["busiest"]
+        }
+      ],
+      "explanation": "'Busy' forms superlative 'busiest'; never combine 'most' and '-est'.",
+      "tags": ["superlatives", "busiest", "review", "a2"]
+    }
+  ]
+}

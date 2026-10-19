@@ -39,28 +39,49 @@ export function createJsonQuestionRepository(
 
     loadPromise = (async () => {
       const rawBanks = loadRawBanks()
+      console.log('[QuestionRepository] Bancos cargados:', Object.keys(rawBanks))
+
       const banks = new Map<string, { bank: QuestionBank }>()
       const allIssues: ValidationIssue[] = []
 
       // Validate each bank
       for (const [file, rawBank] of Object.entries(rawBanks)) {
+        console.log(`[QuestionRepository] Validando: ${file}`)
         const result = validateQuestionBank(rawBank, file)
         if (result.valid) {
+          console.log(`[QuestionRepository] ✓ ${file} válido - ${result.bank.questions.length} preguntas`)
           banks.set(file, { bank: result.bank })
         } else {
+          console.log(`[QuestionRepository] ✗ ${file} tiene ${result.issues.length} errores:`)
+          result.issues.forEach((issue) => {
+            console.log(`  - [${issue.questionId || 'metadata'}] ${issue.path}: ${issue.message}`)
+          })
           allIssues.push(...result.issues)
         }
       }
 
       // Cross-bank validation
       const crossIssues = validateQuestionBanks(banks)
+      if (crossIssues.length > 0) {
+        console.log(`[QuestionRepository] Errores de validación cruzada: ${crossIssues.length}`)
+        crossIssues.forEach((issue) => {
+          console.log(`  - ${issue.file}: ${issue.message}`)
+        })
+      }
       allIssues.push(...crossIssues)
 
       // Separate errors and warnings
       const errors = allIssues.filter((i) => i.severity === 'error')
       const warnings = allIssues.filter((i) => i.severity === 'warning')
 
+      console.log(`[QuestionRepository] Total: ${errors.length} errores, ${warnings.length} advertencias`)
+
       if (errors.length > 0) {
+        console.error('[QuestionRepository] ❌ ERRORES CRÍTICOS ENCONTRADOS:')
+        errors.forEach((error, idx) => {
+          console.error(`  ${idx + 1}. [${error.questionId || 'metadata'}] ${error.file}:${error.path}`)
+          console.error(`     Mensaje: ${error.message}`)
+        })
         throw new QuestionBankLoadError(errors)
       }
 
@@ -69,6 +90,7 @@ export function createJsonQuestionRepository(
         console.warn(`Warning: ${warning.file}:${warning.path} ${warning.message}`)
       })
 
+      console.log(`[QuestionRepository] Carga completada exitosamente`)
       cachedBanks = banks
       return banks
     })()
