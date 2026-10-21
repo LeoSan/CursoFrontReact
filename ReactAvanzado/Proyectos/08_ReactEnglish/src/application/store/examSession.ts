@@ -23,6 +23,7 @@ export type ExamSessionAction =
     }
   | { readonly type: 'reveal'; readonly questionId: string }
   | { readonly type: 'markSelfCheck'; readonly questionId: string; readonly correct: boolean }
+  | { readonly type: 'markQuestion'; readonly questionId: string; readonly correct: boolean }
   | { readonly type: 'goTo'; readonly index: number }
   | { readonly type: 'next' }
   | { readonly type: 'previous' }
@@ -132,6 +133,22 @@ export function examSessionReducer(
             kind: 'selfCheck',
             questionId: action.questionId,
             revealed: true,
+            markedCorrect: action.correct,
+          },
+        },
+      }
+    }
+
+    case 'markQuestion': {
+      if (state.status !== 'in_progress' || !state.exam) return state
+      const existing = state.answers[action.questionId]
+      if (!existing) return state
+      return {
+        ...state,
+        answers: {
+          ...state.answers,
+          [action.questionId]: {
+            ...existing,
             markedCorrect: action.correct,
           },
         },

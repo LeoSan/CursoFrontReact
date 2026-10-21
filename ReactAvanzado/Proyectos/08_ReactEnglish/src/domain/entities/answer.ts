@@ -3,6 +3,7 @@ export type TextAnswer = {
   readonly kind: 'text'
   readonly questionId: string
   readonly value: string
+  readonly markedCorrect?: boolean | null
 }
 
 /** User's answers to a fill-in-the-blank question (by blank ID). */
@@ -10,6 +11,7 @@ export type BlanksAnswer = {
   readonly kind: 'blanks'
   readonly questionId: string
   readonly values: Readonly<Record<number, string>>
+  readonly markedCorrect?: boolean | null
 }
 
 /** User's self-check answer (manually mark correct or leave for review). */

@@ -10,6 +10,7 @@ import { MediaPlaceholder } from './MediaPlaceholder'
 import { OpenAnswerInput } from './OpenAnswerInput'
 import { RevealAnswer } from './RevealAnswer'
 import { SelfCheckBlock } from './SelfCheckBlock'
+import { MarkCorrectIncorrect } from './MarkCorrectIncorrect'
 
 /** Handlers are already bound to the question being shown. */
 export type QuestionHandlers = {
@@ -18,6 +19,7 @@ export type QuestionHandlers = {
   readonly onAnswerSelfCheckText: (value: string) => void
   readonly onReveal: () => void
   readonly onMarkSelfCheck: (correct: boolean) => void
+  readonly onMark: (correct: boolean) => void
 }
 
 interface QuestionViewProps {
@@ -60,31 +62,40 @@ function QuestionContent({
     const values = readBlankValues(answer)
     if (question.questionType !== 'multi_blank' && question.template) {
       return (
-        <InlineBlanks
-          template={question.template}
+        <div className="space-y-4">
+          <InlineBlanks
+            template={question.template}
+            blanks={question.blanks}
+            values={values}
+            onChange={handlers.onAnswerBlank}
+          />
+          <MarkCorrectIncorrect marked={answer?.markedCorrect} onMark={handlers.onMark} />
+        </div>
+      )
+    }
+    return (
+      <div className="space-y-4">
+        <BlanksTable
+          heading={question.prompt}
           blanks={question.blanks}
           values={values}
           onChange={handlers.onAnswerBlank}
         />
-      )
-    }
-    return (
-      <BlanksTable
-        heading={question.prompt}
-        blanks={question.blanks}
-        values={values}
-        onChange={handlers.onAnswerBlank}
-      />
+        <MarkCorrectIncorrect marked={answer?.markedCorrect} onMark={handlers.onMark} />
+      </div>
     )
   }
 
   if (question.questionType === 'error_correction') {
     return (
-      <ErrorCorrection
-        sentence={question.prompt}
-        value={readTextValue(answer)}
-        onChange={handlers.onAnswerText}
-      />
+      <div className="space-y-4">
+        <ErrorCorrection
+          sentence={question.prompt}
+          value={readTextValue(answer)}
+          onChange={handlers.onAnswerText}
+        />
+        <MarkCorrectIncorrect marked={answer?.markedCorrect} onMark={handlers.onMark} />
+      </div>
     )
   }
 
@@ -92,6 +103,7 @@ function QuestionContent({
     <div className="space-y-4">
       <PromptText>{question.prompt}</PromptText>
       <OpenAnswerInput value={readTextValue(answer)} onChange={handlers.onAnswerText} />
+      <MarkCorrectIncorrect marked={answer?.markedCorrect} onMark={handlers.onMark} />
     </div>
   )
 }

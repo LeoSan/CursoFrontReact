@@ -8,6 +8,7 @@ export type ExamSessionActions = {
   readonly answerSelfCheckText: (questionId: string, value: string) => void
   readonly reveal: (questionId: string) => void
   readonly markSelfCheck: (questionId: string, correct: boolean) => void
+  readonly markQuestion: (questionId: string, correct: boolean) => void
   readonly goTo: (index: number) => void
   readonly next: () => void
   readonly previous: () => void
@@ -60,6 +61,11 @@ export function useExamSession(exam: Exam): UseExamSessionResult {
       dispatch({ type: 'markSelfCheck', questionId, correct }),
     []
   )
+  const markQuestion = useCallback(
+    (questionId: string, correct: boolean) =>
+      dispatch({ type: 'markQuestion', questionId, correct }),
+    []
+  )
   const goTo = useCallback((index: number) => dispatch({ type: 'goTo', index }), [])
   const next = useCallback(() => dispatch({ type: 'next' }), [])
   const previous = useCallback(() => dispatch({ type: 'previous' }), [])
@@ -72,6 +78,7 @@ export function useExamSession(exam: Exam): UseExamSessionResult {
       answerSelfCheckText,
       reveal,
       markSelfCheck,
+      markQuestion,
       goTo,
       next,
       previous,
@@ -83,6 +90,7 @@ export function useExamSession(exam: Exam): UseExamSessionResult {
       answerSelfCheckText,
       reveal,
       markSelfCheck,
+      markQuestion,
       goTo,
       next,
       previous,

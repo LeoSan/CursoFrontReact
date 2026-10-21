@@ -151,6 +151,7 @@ export default function ExamPage({ exam, onSubmitted, onExit }: ExamPageProps) {
                 onAnswerSelfCheckText: (value) => actions.answerSelfCheckText(questionId, value),
                 onReveal: () => actions.reveal(questionId),
                 onMarkSelfCheck: (correct) => actions.markSelfCheck(questionId, correct),
+                onMark: (correct) => actions.markQuestion(questionId, correct),
               }}
             />
           </fieldset>
@@ -168,7 +169,7 @@ export default function ExamPage({ exam, onSubmitted, onExit }: ExamPageProps) {
           answeredFlags={answeredFlags}
           incorrectFlags={exam.questions.map((item) => {
             const answer = state.answers[item.question.id]
-            return answer?.kind === 'selfCheck' && answer.markedCorrect === false
+            return answer?.markedCorrect === false
           })}
           disabled={submitting}
           submitting={submitting}
